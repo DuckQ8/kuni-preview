@@ -1,0 +1,303 @@
+{
+  "slug": "general-electives",
+  "name_en": "General Elective Courses",
+  "name_ar": "المقررات الاختيارية العامة",
+  "college": "business",
+  "degree": "",
+  "total_credits": 0,
+  "sections": [
+    {
+      "title": "Academic and Career Skill Dev.",
+      "credits": null,
+      "courses": [
+        {
+          "code": "BUS 100",
+          "title": "Academic, Character & Skills Development",
+          "credits": 3
+        },
+        {
+          "code": "BUS 201",
+          "title": "Career Strategies",
+          "credits": 3
+        },
+        {
+          "code": "SFT 300",
+          "title": "Soft Skills for Career Success",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Art & Design",
+      "credits": null,
+      "courses": [
+        {
+          "code": "AD 113",
+          "title": "Basic Drawing",
+          "credits": 3
+        },
+        {
+          "code": "AD 114",
+          "title": "Drawing II",
+          "credits": 3
+        },
+        {
+          "code": "AD 200",
+          "title": "Beginning Painting",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Development of Thinking Skills",
+      "credits": null,
+      "courses": [
+        {
+          "code": "SDL 110",
+          "title": "Effective Thinking",
+          "credits": 3
+        },
+        {
+          "code": "SDL 120",
+          "title": "Simple Thinking",
+          "credits": 1
+        },
+        {
+          "code": "SDL 210",
+          "title": "Practical Thinking",
+          "credits": 2
+        },
+        {
+          "code": "SDL 220",
+          "title": "Creative Thinking",
+          "credits": 2
+        },
+        {
+          "code": "SFT 110",
+          "title": "Intro. to Soft Skills",
+          "credits": 3
+        },
+        {
+          "code": "SFT 120",
+          "title": "Eff. Prob. Solv. & Dec. Making",
+          "credits": 1
+        },
+        {
+          "code": "SFT 210",
+          "title": "Info & Digital Literacy",
+          "credits": 2
+        },
+        {
+          "code": "SFT 220",
+          "title": "Create., Innovation and Change",
+          "credits": 2
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Ethics",
+      "credits": null,
+      "courses": [
+        {
+          "code": "BUS 240",
+          "title": "Professional Work Values in Islam",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Transferd courses",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ECO 200",
+          "title": "Economics for Managers",
+          "credits": 3
+        },
+        {
+          "code": "ECON 210",
+          "title": "Principles of Economics",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "History",
+      "credits": null,
+      "courses": [
+        {
+          "code": "HIST 105",
+          "title": "Survey of Global History",
+          "credits": 3
+        },
+        {
+          "code": "HIST 100",
+          "title": "Kuwait History",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Life and Management Development",
+      "credits": null,
+      "courses": [
+        {
+          "code": "FN 303",
+          "title": "Essentials of Nutrition",
+          "credits": 3
+        },
+        {
+          "code": "SDL 100",
+          "title": "Interpersonal Relationship Management",
+          "credits": 1
+        },
+        {
+          "code": "SFT 100",
+          "title": "Teamwork and Collaboration",
+          "credits": 1
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Music",
+      "credits": null,
+      "courses": [
+        {
+          "code": "MUS 200",
+          "title": "World Music",
+          "credits": 3
+        },
+        {
+          "code": "MUS 210",
+          "title": "Rhythm in Modern Music",
+          "credits": 1
+        },
+        {
+          "code": "MUS 250",
+          "title": "Music Appreciation",
+          "credits": 2
+        },
+        {
+          "code": "MUS 261",
+          "title": "Fundamentals of Music",
+          "credits": 2
+        },
+        {
+          "code": "MUS 380",
+          "title": "Music History",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Physical Education",
+      "credits": null,
+      "courses": [
+        {
+          "code": "PES 111",
+          "title": "Lifetime Fitness",
+          "credits": 2
+        },
+        {
+          "code": "PES 115",
+          "title": "Individual and Dual Movement Forms I",
+          "credits": 1
+        },
+        {
+          "code": "PES 117",
+          "title": "Team Movement Forms",
+          "credits": 1
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Psychological Sciences",
+      "credits": null,
+      "courses": [
+        {
+          "code": "PSY 120",
+          "title": "Elementary Psychology",
+          "credits": 3
+        },
+        {
+          "code": "PSY 385",
+          "title": "Positive Psychology",
+          "credits": 3
+        },
+        {
+          "code": "PSY 333",
+          "title": "Motivation",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Social Sciences",
+      "credits": null,
+      "courses": [
+        {
+          "code": "SOC 100",
+          "title": "Introduction to Sociology",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Speech & Communication",
+      "credits": null,
+      "courses": [
+        {
+          "code": "LAN 100",
+          "title": "Arabic Language",
+          "credits": 2
+        },
+        {
+          "code": "COM 320",
+          "title": "Small Group Communication",
+          "credits": 3
+        },
+        {
+          "code": "COM 251",
+          "title": "Communication, Information and...",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Other Languages",
+      "credits": null,
+      "courses": [
+        {
+          "code": "SPAN 101",
+          "title": "Spanish level 1",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Theater",
+      "credits": null,
+      "courses": [
+        {
+          "code": "THTR 133",
+          "title": "Survey of Acting",
+          "credits": 3
+        }
+      ],
+      "notes": "Note: Student Cannot take more than 2 Courses from the same subject area."
+    }
+  ]
+}

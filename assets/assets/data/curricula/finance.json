@@ -1,0 +1,260 @@
+{
+  "slug": "finance",
+  "name_en": "Finance",
+  "name_ar": "المالية",
+  "college": "business",
+  "degree": "Bachelor of Science in Business Administration (concentration – Finance)",
+  "total_credits": 121,
+  "sections": [
+    {
+      "title": "Degree Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "The Bachelor of Science in Business Administration (concentration – Finance) degree requires a total of minimum 121 credit hours and a minimum cumulative grade point average (CGPA) of 2.00."
+    },
+    {
+      "title": "Internship",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "FIN 400",
+          "title": "Finance Internship",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Finance concentration compulsory requirements",
+      "credits": 15,
+      "courses": [
+        {
+          "code": "FIN 420",
+          "title": "Corporate Finance",
+          "credits": null
+        },
+        {
+          "code": "FIN 430",
+          "title": "Investments",
+          "credits": null
+        },
+        {
+          "code": "FIN 450",
+          "title": "International Finance",
+          "credits": null
+        },
+        {
+          "code": "FIN 460",
+          "title": "Financial Markets",
+          "credits": null
+        },
+        {
+          "code": "FIN 480",
+          "title": "Financial Analysis",
+          "credits": null
+        },
+        {
+          "code": "FIN 485",
+          "title": "Portfolio Management",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Finance concentration selective requirements",
+      "credits": 9,
+      "courses": [
+        {
+          "code": "FIN 410",
+          "title": "Bank Management",
+          "credits": null
+        },
+        {
+          "code": "FIN 435",
+          "title": "Real Estate Finance",
+          "credits": null
+        },
+        {
+          "code": "FIN 440",
+          "title": "Derivatives",
+          "credits": null
+        },
+        {
+          "code": "FIN 445",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "FIN 455",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "FIN 465",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "FIN 470",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": "Minimum Grade “C” is required for all concentration courses."
+    },
+    {
+      "title": "Business Core Requirement",
+      "credits": 41,
+      "courses": [
+        {
+          "code": "ACT 300",
+          "title": "Financial Accounting",
+          "credits": null
+        },
+        {
+          "code": "ACT 310",
+          "title": "Managerial Accounting",
+          "credits": null
+        },
+        {
+          "code": "BUS 220",
+          "title": "Business Law and Ethics",
+          "credits": null
+        },
+        {
+          "code": "BUS 230",
+          "title": "Business Communication",
+          "credits": null
+        },
+        {
+          "code": "BUS 250",
+          "title": "Business Organization and Management",
+          "credits": null
+        },
+        {
+          "code": "BUS 300",
+          "title": "Quantitative Business Analysis",
+          "credits": null
+        },
+        {
+          "code": "BUS 310",
+          "title": "Operations Management",
+          "credits": null
+        },
+        {
+          "code": "ECON 251",
+          "title": "Microeconomics",
+          "credits": null
+        },
+        {
+          "code": "ECON 252",
+          "title": "Macroeconomics",
+          "credits": null
+        },
+        {
+          "code": "FIN 300",
+          "title": "Managerial Finance",
+          "credits": null
+        },
+        {
+          "code": "HRM 300",
+          "title": "Organizational Behavior",
+          "credits": null
+        },
+        {
+          "code": "MGT 320",
+          "title": "Principles of Management",
+          "credits": null
+        },
+        {
+          "code": "MGT 450",
+          "title": "Strategic Management",
+          "credits": null
+        },
+        {
+          "code": "MIS 300",
+          "title": "Management Information Systems",
+          "credits": null
+        },
+        {
+          "code": "MKT 300",
+          "title": "Principles of Marketing",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Mathematics and Statistics Requirement",
+      "credits": 12,
+      "courses": [
+        {
+          "code": "MAT 100",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MAT 150",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MAT 175",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "STA 200",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "English Language and Communication Skills",
+      "credits": 15,
+      "courses": [
+        {
+          "code": "ENGL 100",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENL 110",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "COM 114",
+          "title": "Kindly refer to Course Catalogue",
+          "credits": null
+        },
+        {
+          "code": "ENGL 220",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENL 320",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Education Requirement",
+      "credits": 23,
+      "courses": [],
+      "notes": "Students must satisfy the requirements of the General Education as per the following conditions:\nCourses must be drawn from the following General Education areas at AUM: Speech and Communication, English Language and Literature, History, Fine Arts, Physical Education, Self-Development and Life Style, Culinary Arts, Ethics, Social Sciences, Psychological Sciences, Natural Sciences, Child Development and Family Studies, Economics , Philosophy, Other Languages and Science, Technology and Society (STS) (please refer to Course Catalogue, General Education section).\nIn order to ensure sufficient exposure to General Education topics, unless otherwise specified by the degree requirements of the academic major, the student cannot take more than 2 courses from the same area/sub- area as, as shown in tables below:\nArea  Maximum Courses to Take\nSpeech and Communication  2\nEnglish Language and Literature  2\nHistory  2\nPhysical Education  2\nCulinary Arts  2\nEthics  2\nSocial Sciences  2\nPsychological Sciences  2\nNatural Sciences  2\nChild Development and Family Studies  2\nEconomics  2\nPhilosophy  2\nOther Languages  2\nScience, Technology and Society (STS)  2\nArea  Sub-Area  Maximum Courses to Take\nFine Arts  Arts and Design  2\nTheatre  2\nMusic  2\nFashion and Apparel Design  2\nPhotography and Media  2\nSelf-Development and Life Style  Academic and Career Skills Development  2\nCharacter and Leadership Skills Development  2\nLife Management Development  2\nDevelopment of Thinking Skills  2\nTechnology and Innovation  2\nCourses that are already required under other category than General Education requirement:\n1.\nCannot be considered as a General Education course;\n2.\nDo not count towards the 2-course limit in General Education requirement."
+    },
+    {
+      "title": "Free Elective Requirements",
+      "credits": 3,
+      "courses": [],
+      "notes": "Any non-remedial course at CBA-LAD, as long as course restrictions are met."
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "slug": "management-information-systems",
+  "name_en": "Management Information Systems",
+  "name_ar": "نظم المعلومات الإدارية",
+  "college": "business",
+  "degree": "Bachelor of Science in Management Information Systems",
+  "total_credits": 121,
+  "sections": [
+    {
+      "title": "Degree Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "The Bachelor of Science in Management Information Systems degree requires a total of minimum 121 credit hours and a minimum cumulative grade point average (CGPA) of 2.00."
+    },
+    {
+      "title": "Internship",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "MIS 400",
+          "title": "Internship in Management Information Systems",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "MIS concentration compulsory requirements",
+      "credits": 15,
+      "courses": [
+        {
+          "code": "MIS 360",
+          "title": "Business Process and Systems",
+          "credits": null
+        },
+        {
+          "code": "MIS 450",
+          "title": "Information Security and Networking",
+          "credits": null
+        },
+        {
+          "code": "MIS 470",
+          "title": "Decision Support and Business Intelligence",
+          "credits": null
+        },
+        {
+          "code": "MIS 480",
+          "title": "Database Management Systems",
+          "credits": null
+        },
+        {
+          "code": "MIS 420",
+          "title": "Electronic Commerce",
+          "credits": null
+        },
+        {
+          "code": "MIS 485",
+          "title": "Capstone Project in Management Information Systems",
+          "credits": null
+        }
+      ],
+      "notes": "MIS 420 OR MIS 485 is required to complete this requirement."
+    },
+    {
+      "title": "MIS concentration selective requirements",
+      "credits": 9,
+      "courses": [
+        {
+          "code": "MIS 410",
+          "title": "Computing with Business Applications",
+          "credits": null
+        },
+        {
+          "code": "MIS 445",
+          "title": "Corporate IT Management",
+          "credits": null
+        },
+        {
+          "code": "MIS 455",
+          "title": "Information Technology and Social and Ethical Issues",
+          "credits": null
+        },
+        {
+          "code": "MIS 465",
+          "title": "Mobile App Development",
+          "credits": null
+        },
+        {
+          "code": "MIS 475",
+          "title": "Data Mining for Business Intelligence",
+          "credits": null
+        },
+        {
+          "code": "MIS 490",
+          "title": "Enterprise Systems Configuration for Business",
+          "credits": null
+        },
+        {
+          "code": "MGT 400",
+          "title": "Project Management",
+          "credits": null
+        }
+      ],
+      "notes": "Minimum Grade “C” is required for all concentration courses."
+    },
+    {
+      "title": "Business Core Requirement",
+      "credits": 41,
+      "courses": [
+        {
+          "code": "ACT 300",
+          "title": "Financial Accounting",
+          "credits": null
+        },
+        {
+          "code": "ACT 310",
+          "title": "Managerial Accounting",
+          "credits": null
+        },
+        {
+          "code": "BUS 220",
+          "title": "Business Law and Ethics",
+          "credits": null
+        },
+        {
+          "code": "BUS 230",
+          "title": "Business Communication",
+          "credits": null
+        },
+        {
+          "code": "BUS 250",
+          "title": "Business Organization and Management",
+          "credits": null
+        },
+        {
+          "code": "BUS 300",
+          "title": "Quantitative Business Analysis",
+          "credits": null
+        },
+        {
+          "code": "BUS 310",
+          "title": "Operations Management",
+          "credits": null
+        },
+        {
+          "code": "ECON 251",
+          "title": "Microeconomics",
+          "credits": null
+        },
+        {
+          "code": "ECON 252",
+          "title": "Macroeconomics",
+          "credits": null
+        },
+        {
+          "code": "FIN 300",
+          "title": "Managerial Finance",
+          "credits": null
+        },
+        {
+          "code": "HRM 300",
+          "title": "Organizational Behavior",
+          "credits": null
+        },
+        {
+          "code": "MGT 320",
+          "title": "Principles of Management",
+          "credits": null
+        },
+        {
+          "code": "MGT 450",
+          "title": "Strategic Management",
+          "credits": null
+        },
+        {
+          "code": "MIS 300",
+          "title": "Management Information Systems",
+          "credits": null
+        },
+        {
+          "code": "MKT 300",
+          "title": "Principles of Marketing",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Mathematics and Statistics Requirement",
+      "credits": 12,
+      "courses": [
+        {
+          "code": "MAT 100",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MAT 150",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MAT 175",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "STA 200",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "English Language and Communication Skills",
+      "credits": 15,
+      "courses": [
+        {
+          "code": "ENGL 100",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENL 110",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "COM 114",
+          "title": "Kindly refer to Course Catalogue",
+          "credits": null
+        },
+        {
+          "code": "ENGL 220",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENL 320",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Education Requirement",
+      "credits": 23,
+      "courses": [],
+      "notes": "Students must satisfy the requirements of the General Education as per the following conditions:\nCourses must be drawn from the following General Education areas at AUM: Speech and Communication, English Language and Literature, History, Fine Arts, Physical Education, Self-Development and Life Style, Culinary Arts, Ethics, Social Sciences, Psychological Sciences, Natural Sciences, Child Development and Family Studies, Economics , Philosophy, Other Languages and Science, Technology and Society (STS) (please refer to Course Catalogue, General Education section).\nIn order to ensure sufficient exposure to General Education topics, unless otherwise specified by the degree requirements of the academic major, the student cannot take more than 2 courses from the same area/sub- area as, as shown in tables below:\nArea  Maximum Courses to Take\nSpeech and Communication  2\nEnglish Language and Literature  2\nHistory  2\nPhysical Education  2\nCulinary Arts  2\nEthics  2\nSocial Sciences  2\nPsychological Sciences  2\nNatural Sciences  2\nChild Development and Family Studies  2\nEconomics  2\nPhilosophy  2\nOther Languages  2\nScience, Technology and Society (STS)  2\nArea  Sub-Area  Maximum Courses to Take\nFine Arts  Arts and Design  2\nTheatre  2\nMusic  2\nFashion and Apparel Design  2\nPhotography and Media  2\nSelf-Development and Life Style  Academic and Career Skills Development  2\nCharacter and Leadership Skills Development  2\nLife Management Development  2\nDevelopment of Thinking Skills  2\nTechnology and Innovation  2\nCourses that are already required under other category than General Education requirement:\n1.\nCannot be considered as a General Education course;\n2.\nDo not count towards the 2-course limit in General Education requirement."
+    },
+    {
+      "title": "Free Elective Requirements",
+      "credits": 3,
+      "courses": [],
+      "notes": "Any non-remedial course at CBA-LAD, as long as course restrictions are met."
+    }
+  ]
+}

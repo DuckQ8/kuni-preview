@@ -1,0 +1,302 @@
+{
+  "slug": "architectural-engineering",
+  "name_en": "Architectural Engineering",
+  "name_ar": "الهندسة المعمارية",
+  "college": "engineering",
+  "degree": "Bachelor of Science in Architectural Engineering",
+  "total_credits": 136,
+  "sections": [
+    {
+      "title": "Degree Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "Minimum of 136 credits is required for a Bachelor of Science in Architectural Engineering degree. Students must have a minimum CGPA of 2.00"
+    },
+    {
+      "title": "Core Course Policy",
+      "credits": null,
+      "courses": [],
+      "notes": "A student must earn a minimum grade of C- in all AE and CVL core courses (even when enrolling in the course as a prerequisite). The core courses are the following CVL 203; CVL 231; CVL 270; CVL 292; CVL 297; LA 250; LA 255; CVL 341; CVL343; CVL 398; CGT 164; COM 114; MA 261; MA 265; MA 266; PHYS 241; STAT 511; AE 200; AE 310; AE 311, AE 413; AE 414; AE 415; AE 498; AE 513; AE 514; AE 515; AE 516; AE 522.\nAE 498 (Senior Project Course) must be taken in the last semester. The only exception to this rule is when students plan to graduate during a summer semester. In this case, they may take AE 498 during the prior spring semester."
+    },
+    {
+      "title": "AE Requirements",
+      "credits": 67,
+      "courses": [
+        {
+          "code": "CVL 203",
+          "title": "Mechanics of Solids",
+          "credits": 4
+        },
+        {
+          "code": "CVL 231",
+          "title": "Methods of Surveying",
+          "credits": 3
+        },
+        {
+          "code": "CVL 270",
+          "title": "Hydraulic Engineering",
+          "credits": 4
+        },
+        {
+          "code": "CVL 292",
+          "title": "CVL Seminar",
+          "credits": 2
+        },
+        {
+          "code": "CVL 297",
+          "title": "Probability and Statistics",
+          "credits": 3
+        },
+        {
+          "code": "LA 250",
+          "title": "History of Architecture",
+          "credits": 3
+        },
+        {
+          "code": "LA 255",
+          "title": "Architectural Design Principles",
+          "credits": 3
+        },
+        {
+          "code": "BCM 250",
+          "title": "Building Construction Methods",
+          "credits": 2
+        },
+        {
+          "code": "CVL 341",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "CVL 343",
+          "title": "Construction Materials Lab",
+          "credits": 1
+        },
+        {
+          "code": "CVL 398",
+          "title": "Soil Mechanics Lab",
+          "credits": 3
+        },
+        {
+          "code": "AE 200",
+          "title": "Introduction to Architectural Engineering",
+          "credits": 3
+        },
+        {
+          "code": "AE 310",
+          "title": "Building Systems I",
+          "credits": 3
+        },
+        {
+          "code": "AE 311",
+          "title": "Building Systems II",
+          "credits": 3
+        },
+        {
+          "code": "AE 413",
+          "title": "Structural Analysis for Buildings",
+          "credits": 3
+        },
+        {
+          "code": "AE 414",
+          "title": "Building Structural Design I",
+          "credits": 3
+        },
+        {
+          "code": "AE 415",
+          "title": "Building Structural Design II",
+          "credits": 3
+        },
+        {
+          "code": "AE 498",
+          "title": "Senior Project",
+          "credits": 3
+        },
+        {
+          "code": "AE 513",
+          "title": "Building Environmental Systems",
+          "credits": 3
+        },
+        {
+          "code": "AE 514",
+          "title": "Acoustics and Lighting",
+          "credits": 3
+        },
+        {
+          "code": "AE 515",
+          "title": "Building Electrical Systems",
+          "credits": 3
+        },
+        {
+          "code": "AE 516",
+          "title": "Construction Management",
+          "credits": 3
+        },
+        {
+          "code": "AE 522",
+          "title": "Sustainable Building Design",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Technical Electives",
+      "credits": 6,
+      "courses": [
+        {
+          "code": "AE 517",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "AE 529",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "CGT 518",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "CGT 460",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "CM 332",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "BCM 101",
+          "title": "",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Engineering Requirements",
+      "credits": 6,
+      "courses": [
+        {
+          "code": "ENGR 131",
+          "title": "Transforming Ideas to Innovation I",
+          "credits": 2
+        },
+        {
+          "code": "ENGR 132",
+          "title": "Transforming Ideas to Innovation II",
+          "credits": 2
+        },
+        {
+          "code": "CGT 164",
+          "title": "",
+          "credits": 2
+        }
+      ],
+      "notes": "It is expected that CGT 164 will cover technical sketching and CAD software, necessary for engineering construction documents."
+    },
+    {
+      "title": "Quantitative Methods",
+      "credits": 21,
+      "courses": [
+        {
+          "code": "MA 165",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "MA 166",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "MA 261",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "MA 265",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "MA 266",
+          "title": "Ordinary Differential Equations",
+          "credits": 3
+        },
+        {
+          "code": "STAT 511",
+          "title": "",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Science",
+      "credits": 11,
+      "courses": [
+        {
+          "code": "CHM 115",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "PHYS 172",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "PHYS 241",
+          "title": "",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Basic Science Selective",
+      "credits": 3,
+      "courses": [],
+      "notes": "Choice of one 100-level course from BIOL or EAPS."
+    },
+    {
+      "title": "Science Selective",
+      "credits": 3,
+      "courses": [],
+      "notes": "Choose one of the following (4) CHM 116 or (3) CS 159."
+    },
+    {
+      "title": "English Language and Communication Skills",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "ENGL 100",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "ENGL 106",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "COM 114",
+          "title": "Kindly refer to Course Catalogue",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Education Requirements",
+      "credits": 9,
+      "courses": [],
+      "notes": "Architectural Engineering students must select AD 454 as one of their GEE courses.\nCourses must be drawn from the following General Education areas at AUM Speech and Communication, English Language and Literature, History, Fine Arts, Physical Education, Self-Development and Life Style, Culinary Arts, Ethics, Social Sciences, Psychological Sciences, Natural Sciences, Child Development and Family Studies, Economics, Philosophy, Other Languages, and Science, Technology and Society (please refer to Course Catalogue, General Education section).\nIn order to ensure sufficient exposure to General Education topics, unless otherwise specified by the degree requirements of the academic major, the student cannot take more than 2 courses from the same areasub-area as, shown in tables below\nArea  Maximum Courses to Take\nSpeech and Communication  2\nEnglish Language and Literature  2\nHistory  2\nPhysical Education  2\nCulinary Arts  2\nEthics  2\nSocial Sciences  2\nPsychological Sciences  2\nNatural Sciences  2\nChild Development and Family Studies  2\nEconomics  2\nPhilosophy  2\nOther Languages  2\nScience, Technology and Society (STS)  2\nArea  Sub-Area  Maximum Courses to Take\nFine Arts  Arts and Design  2\nTheatre  2\nMusic  2\nFashion and Apparel Design  2\nPhotography and Media  2\nSelf-Development and Life Style  Academic and Career Skills Development  2\nCharacter and Leadership Skills Development  2\nLife Management Development  2\nDevelopment of Thinking Skills  2\nTechnology and Innovation  2\nCourses that are already required under other category than General Education requirement\nCannot be considered as a General Education course;\nDo not count towards the 2-course limit in General Education requirement."
+    }
+  ]
+}

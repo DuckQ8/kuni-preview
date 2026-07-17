@@ -1,0 +1,332 @@
+{
+  "slug": "information-systems-and-technology",
+  "name_en": "Information Systems and Technology",
+  "name_ar": "نظم وتكنولوجيا المعلومات",
+  "college": "engineering",
+  "degree": "Bachelor of Science in Information Systems and Technology",
+  "total_credits": 124,
+  "sections": [
+    {
+      "title": "Degree Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "The Bachelor of Science in Information Systems and Technology degree requires a minimum of 124 total credit hours, a minimum cumulative grade point average (CGPA) of 2.00 and a minimum grade point average (GPA) of 2.00 in CNIT courses.\nA minimum grade of “C-” is required in all prerequisite CNIT courses: if a student earns “D” in a CNIT course that is not used as a prerequisite, then he/she does not need to retake the course, but the above required minimum grade point average of 2.0 in CNIT courses must be met."
+    },
+    {
+      "title": "Technology Requirements",
+      "credits": 14,
+      "courses": [
+        {
+          "code": "IT 104",
+          "title": "Introduction to IT",
+          "credits": null
+        },
+        {
+          "code": "TECH 120",
+          "title": "Technology Fundamentals",
+          "credits": null
+        },
+        {
+          "code": "OLS 252",
+          "title": "Human Resources Applications",
+          "credits": null
+        },
+        {
+          "code": "TECH 320",
+          "title": "Technology Management",
+          "credits": null
+        },
+        {
+          "code": "TECH 330",
+          "title": "Quality Management",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "IST Core Requirements",
+      "credits": 34,
+      "courses": [
+        {
+          "code": "CNIT 180",
+          "title": "Computer Programming",
+          "credits": null
+        },
+        {
+          "code": "CNIT 155",
+          "title": "Database Fundamentals",
+          "credits": null
+        },
+        {
+          "code": "CNIT 176",
+          "title": "Network Fundamentals",
+          "credits": null
+        },
+        {
+          "code": "CNIT 242",
+          "title": "Web Programming",
+          "credits": null
+        },
+        {
+          "code": "CNIT 255",
+          "title": "Object-Oriented Programming",
+          "credits": null
+        },
+        {
+          "code": "CNIT 272",
+          "title": "Network Administration",
+          "credits": null
+        },
+        {
+          "code": "CNIT 280",
+          "title": "Systems Analysis",
+          "credits": null
+        },
+        {
+          "code": "CNIT 315",
+          "title": "Cybersecurity",
+          "credits": null
+        },
+        {
+          "code": "CNIT 325",
+          "title": "Mobile Application Development",
+          "credits": null
+        },
+        {
+          "code": "CNIT 380",
+          "title": "Project Management",
+          "credits": null
+        },
+        {
+          "code": "CNIT 372",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CNIT 392",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CNIT 480",
+          "title": "Senior Project",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Information Systems Selective Requirements",
+      "credits": 15,
+      "courses": [],
+      "notes": "Any 300 level or higher CNIT course.\nSee course catalogue for course selection, other than those required by the degree."
+    },
+    {
+      "title": "Accounting Selective",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "ACT 300",
+          "title": "Financial Accounting",
+          "credits": null
+        },
+        {
+          "code": "ACT 200",
+          "title": "Introductory Accounting for Non-Business Majors",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Statistics Selective",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "STAT 225",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "STAT 301",
+          "title": "Elementary Statistical Methods",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Interdisciplinary Selective",
+      "credits": 15,
+      "courses": [],
+      "notes": "No more than two courses can be selected from each of the following five categories.\nCourses are subject to availability.\nThe electives may be replaced by a planned alternate sequence of Interdisciplinary electives which reflect a subject of interest to which computing can be applied with Department’s approval."
+    },
+    {
+      "title": "A. Finance",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IT 450",
+          "title": "Production Cost Analysis",
+          "credits": null
+        },
+        {
+          "code": "FIN 300",
+          "title": "Managerial Finance",
+          "credits": null
+        },
+        {
+          "code": "ACT 310",
+          "title": "Managerial Accounting",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "B. Manufacturing or Marketing",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IT 345",
+          "title": "Automatic Identification and Data Capture",
+          "credits": null
+        },
+        {
+          "code": "MKT 300",
+          "title": "Principles of Marketing Management",
+          "credits": null
+        },
+        {
+          "code": "MGMT 323",
+          "title": "Introduction to Market Analysis",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "C. Business Law",
+      "credits": null,
+      "courses": [
+        {
+          "code": "BUS 220",
+          "title": "Business Law and Ethics",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "D. Quality Control",
+      "credits": null,
+      "courses": [
+        {
+          "code": "OLS 484",
+          "title": "Leadership Strategies for Quality and Productivity",
+          "credits": null
+        },
+        {
+          "code": "IT 342",
+          "title": "Introduction to Statistical Quality",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "E. Organizational Management, Behavior and Human Resources (OBHR)",
+      "credits": null,
+      "courses": [
+        {
+          "code": "BUS 250",
+          "title": "Business Organization and Management",
+          "credits": null
+        },
+        {
+          "code": "ENTR 200",
+          "title": "Introduction to Entrepreneurship and Innovation",
+          "credits": null
+        },
+        {
+          "code": "ENTR 310",
+          "title": "Marketing and Management for New Ventures",
+          "credits": null
+        },
+        {
+          "code": "HRM 300",
+          "title": "Organizational Behavior",
+          "credits": null
+        },
+        {
+          "code": "HRM 340",
+          "title": "Human Resource Management",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Mathematics and Science Requirement",
+      "credits": 6,
+      "courses": [
+        {
+          "code": "MA 223",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 224",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Free Elective",
+      "credits": 3,
+      "courses": [],
+      "notes": "Any non-remedial course from AUM, see course catalogue."
+    },
+    {
+      "title": "English Language and Communication Skills",
+      "credits": 13,
+      "courses": [
+        {
+          "code": "ENGL 100",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENGL 106",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "COM 114",
+          "title": "Kindly refer to Course Catalogue",
+          "credits": null
+        },
+        {
+          "code": "ENGL 420",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENGL 421",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Education Requirement",
+      "credits": 14,
+      "courses": [],
+      "notes": "Students must satisfy the requirements of the General Education as per the following conditions:\nCourses must be drawn from the following General Education areas at AUM: Speech and Communication, English Language and Literature, History, Fine Arts, Physical Education, Self-Development and Life Style, Culinary Arts, Ethics, Social Sciences, Psychological Sciences, Natural Sciences, Child Development and Family Studies, Economics, Philosophy, Other Languages, and Science, Technology and Society (please refer to Course Catalogue, General Education section).\nIn order to ensure sufficient exposure to General Education topics, unless otherwise specified by the degree requirements of the academic major, the student cannot take more than 2 courses from the same area/sub-area as, shown in tables below:\nArea  Maximum Courses to Take\nSpeech and Communication  2\nEnglish Language and Literature  2\nHistory  2\nPhysical Education  2\nCulinary Arts  2\nEthics  2\nSocial Sciences  2\nPsychological Sciences  2\nNatural Sciences  2\nChild Development and Family Studies  2\nEconomics  2\nPhilosophy  2\nOther Languages  2\nScience, Technology and Society (STS)  2\nArea  Sub-Area  Maximum Courses to Take\nFine Arts  Arts and Design  2\nTheatre  2\nMusic  2\nFashion and Apparel Design  2\nPhotography and Media  2\nSelf-Development and Life Style  Academic and Career Skills Development  2\nCharacter and Leadership Skills Development  2\nLife Management Development  2\nDevelopment of Thinking Skills  2\nTechnology and Innovation  2\nCourses that are already required under other category than General Education requirement:\ncannot be considered as a General Education course;\ndo not count towards the 2-course limit in General Education requirement."
+    }
+  ]
+}

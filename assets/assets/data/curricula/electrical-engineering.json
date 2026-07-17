@@ -1,0 +1,371 @@
+{
+  "slug": "electrical-engineering",
+  "name_en": "Electrical Engineering",
+  "name_ar": "الهندسة الكهربائية",
+  "college": "engineering",
+  "degree": "Bachelor of Science in Electrical Engineering (EE)",
+  "total_credits": 128,
+  "sections": [
+    {
+      "title": "Degree Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "The Bachelor of Science in Electrical Engineering (EE) degree requires a minimum of 128 credit hours and a minimum cumulative grade point average (CGPA) of 2.00.\nA cumulative GPA of 2.00 or higher in the EE courses taken to satisfy the EE Requirements is required to qualify for graduation with the EE degree."
+    },
+    {
+      "title": "Electrical Engineering Core",
+      "credits": 24,
+      "courses": [
+        {
+          "code": "EE 201",
+          "title": "Linear Circuit Analysis I",
+          "credits": null
+        },
+        {
+          "code": "EE 202",
+          "title": "Linear Circuit Analysis II",
+          "credits": null
+        },
+        {
+          "code": "EE 207",
+          "title": "Electronic Measurement Lab",
+          "credits": null
+        },
+        {
+          "code": "EE 208",
+          "title": "Electronic Devices Lab",
+          "credits": null
+        },
+        {
+          "code": "EE 255",
+          "title": "Electronic Devices",
+          "credits": null
+        },
+        {
+          "code": "EE 270",
+          "title": "Computer Circuits",
+          "credits": null
+        },
+        {
+          "code": "EE 301",
+          "title": "Signals and Systems",
+          "credits": null
+        },
+        {
+          "code": "EE 302",
+          "title": "Probabilistic Methods",
+          "credits": null
+        },
+        {
+          "code": "EE 311",
+          "title": "Electromagnetic Field Theory",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Electrical Engineering Seminars",
+      "credits": 1,
+      "courses": [
+        {
+          "code": "EE 200",
+          "title": "EE Seminar I",
+          "credits": null
+        },
+        {
+          "code": "EE 400",
+          "title": "EE Seminar II",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Senior Design Requirement",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "EE 402",
+          "title": "Senior Design",
+          "credits": null
+        },
+        {
+          "code": "CE 477",
+          "title": "Senior Design",
+          "credits": null
+        }
+      ],
+      "notes": "A prerequisite for all Senior Design courses is the completion of the Electrical Engineering Core Curriculum.\nCourses satisfying the Senior Design Requirement cannot also be used to satisfy the Electrical Engineering Laboratory Requirement below."
+    },
+    {
+      "title": "Advanced Electrical Engineering Selectives",
+      "credits": 9,
+      "courses": [
+        {
+          "code": "CE 362",
+          "title": "Microprocessor Systems",
+          "credits": null
+        },
+        {
+          "code": "EE 305",
+          "title": "Communication Systems",
+          "credits": null
+        },
+        {
+          "code": "EE 321",
+          "title": "Electromechanical Motion Devices",
+          "credits": null
+        },
+        {
+          "code": "EE 382",
+          "title": "Feedback Control Systems",
+          "credits": null
+        },
+        {
+          "code": "EE 438",
+          "title": "Power Systems",
+          "credits": null
+        },
+        {
+          "code": "EE 440",
+          "title": "Power Electronics",
+          "credits": null
+        }
+      ],
+      "notes": "Choose three of the following.\nChoose 4 if both EE 438 and EE 440 selected."
+    },
+    {
+      "title": "Electrical Engineering Electives",
+      "credits": 7,
+      "courses": [
+        {
+          "code": "CE 362",
+          "title": "Microprocessor Systems",
+          "credits": null
+        },
+        {
+          "code": "EE 438",
+          "title": "Power Systems",
+          "credits": null
+        },
+        {
+          "code": "EE 440",
+          "title": "Power Electronics",
+          "credits": null
+        }
+      ],
+      "notes": "Additional Electrical Engineering courses to bring total Electrical Engineering credit hours to at least 47, including at least three (3) Upper-Level Laboratory courses as per the following conditions:\nElectrical Engineering Laboratory Requirement: Three Electrical Engineering Upper-Level Laboratory courses or Electrical Engineering courses with laboratory components in addition to those required as part of the Electrical Engineering Core Curriculum (EE 207, EE 208 and EE 270)."
+    },
+    {
+      "title": "General Engineering",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "CS 159",
+          "title": "Programming Applications for Engineers",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Introduction to Engineering",
+      "credits": 4,
+      "courses": [
+        {
+          "code": "ENGR 131",
+          "title": "Transforming Ideas to Innovation I",
+          "credits": null
+        },
+        {
+          "code": "ENGR 132",
+          "title": "Transforming Ideas to Innovation II",
+          "credits": null
+        }
+      ],
+      "notes": "Alternatively, the student may take ENGR 100 (First-Year Engineering Lectures) and ENGR 126 (Engineering Problem Solving and Computer Tools)."
+    },
+    {
+      "title": "Engineering Breadth Requirement",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "ENGR 200",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENGR 297",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "IE 335",
+          "title": "Engineering Economy",
+          "credits": null
+        },
+        {
+          "code": "IE 336",
+          "title": "Statistical Quality Control",
+          "credits": null
+        },
+        {
+          "code": "MSE 230",
+          "title": "Structure and Properties of Materials",
+          "credits": null
+        },
+        {
+          "code": "NUCL 200",
+          "title": "Introduction to Nuclear Engineering",
+          "credits": null
+        },
+        {
+          "code": "NANO 101",
+          "title": "Introduction to Nanotechnology",
+          "credits": null
+        },
+        {
+          "code": "CVL 355",
+          "title": "Engineering Environmental Sustainability",
+          "credits": null
+        }
+      ],
+      "notes": "Choose one (1) course from the following."
+    },
+    {
+      "title": "Mathematics Requirements",
+      "credits": 18,
+      "courses": [
+        {
+          "code": "MA 165",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 166",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 261",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 265",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 266",
+          "title": "Ordinary Differential Equations",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Science Requirement",
+      "credits": 15,
+      "courses": [
+        {
+          "code": "CHM 115",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "PHYS 172",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "PHYS 272",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 110",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 121",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 135",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 112",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 116",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "PHYS 322",
+          "title": "Intermediate Optics",
+          "credits": null
+        },
+        {
+          "code": "PHYS 342",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "EAPS 125",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "English Language and Communication Skills",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "COM 114",
+          "title": "Kindly refer to Course Catalogue",
+          "credits": null
+        },
+        {
+          "code": "ENGL 100",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENGL 106",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Education Requirement",
+      "credits": 18,
+      "courses": [],
+      "notes": "Students must satisfy the requirements of the General Education as per the following conditions:\nCourses must be drawn from the following General Education areas at AUM: Speech and Communication, English Language and Literature, History, Fine Arts, Physical Education, Self-Development and Life Style, Culinary Arts, Ethics, Social Sciences, Psychological Sciences, Natural Sciences, Child Development and Family Studies, Economics, Philosophy, Other Languages, and Science, Technology and Society (please refer to Course Catalogue, General Education section).\nIn order to ensure sufficient exposure to General Education topics, unless otherwise specified by the degree requirements of the academic major, the student cannot take more than 2 courses from the same area/sub-area as, shown in tables below:\nArea  Maximum Courses to Take\nSpeech and Communication  2\nEnglish Language and Literature  2\nHistory  2\nPhysical Education  2\nCulinary Arts  2\nEthics  2\nSocial Sciences  2\nPsychological Sciences  2\nNatural Sciences  2\nChild Development and Family Studies  2\nEconomics  2\nPhilosophy  2\nOther Languages  2\nScience, Technology and Society (STS)  2\nArea  Sub-Area  Maximum Courses to Take\nFine Arts  Arts and Design  2\nTheatre  2\nMusic  2\nFashion and Apparel Design  2\nPhotography and Media  2\nSelf-Development and Life Style  Academic and Career Skills Development  2\nCharacter and Leadership Skills Development  2\nLife Management Development  2\nDevelopment of Thinking Skills  2\nTechnology and Innovation  2\nCourses that are already required under other category than General Education requirement:\ncannot be considered as a General Education course;\ndo not count towards the 2-course limit in General Education requirement."
+    },
+    {
+      "title": "Free Electives",
+      "credits": 7,
+      "courses": [],
+      "notes": "Students are permitted up to 7 credit hours as Free Elective courses.\nThe Free Elective can be satisfied by most courses offered by AUM with few exceptions.\nThe general guidelines are listed as follows:\nAdditional General Education Electives or Professional Electives can be used for free elective credit.\nExcess introductory engineering electives can be used for the free elective.\nThe primary exceptions that are not permitted for the free elective are remedial courses like MAT 110.\nRemedial courses are courses that must be taken by student in order to build up certain academic knowledge or skills like math or English.\nRepeated courses are not counted as free electives."
+    },
+    {
+      "title": "Complementary Electives",
+      "credits": 13,
+      "courses": [],
+      "notes": "Additional courses to bring the total to at least 128 credit hours.\nThese courses should be selected to enhance the student’s academic program.\nThese courses may include Electrical Engineering courses beyond those required to complete the Electrical Engineering Requirements or additional Mathematics, Science, Engineering, and Liberal Arts courses based on Dean approval."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "accounting": "pdfs/accounting.pdf",
+  "architectural-engineering": "pdfs/architectural-engineering.pdf",
+  "chemical-engineering": "pdfs/chemical-engineering.pdf",
+  "civil-engineering": "pdfs/civil-engineering.pdf",
+  "computer-engineering": "pdfs/computer-engineering.pdf",
+  "electrical-engineering": "pdfs/electrical-engineering.pdf",
+  "finance": "pdfs/finance.pdf",
+  "human-resource-management": "pdfs/human-resource-management.pdf",
+  "industrial-engineering": "pdfs/industrial-engineering.pdf",
+  "information-systems-and-technology": "pdfs/information-systems-and-technology.pdf",
+  "management-information-systems": "pdfs/management-information-systems.pdf",
+  "marketing": "pdfs/marketing.pdf",
+  "mechanical-engineering": "pdfs/mechanical-engineering.pdf"
+}

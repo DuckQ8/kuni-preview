@@ -1,0 +1,732 @@
+{
+  "slug": "industrial-engineering",
+  "name_en": "Industrial Engineering",
+  "name_ar": "الهندسة الصناعية",
+  "college": "engineering",
+  "degree": "Bachelor of Science in Industrial Engineering",
+  "total_credits": 125,
+  "sections": [
+    {
+      "title": "Degree Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "The Bachelor of Science in Industrial Engineering degree requires a total of minimum 125 credit hours and a minimum cumulative grade point average (CGPA) of 2.00."
+    },
+    {
+      "title": "Required Engineering Courses",
+      "credits": 49,
+      "courses": [
+        {
+          "code": "IE 230",
+          "title": "Probability and Statistics",
+          "credits": null
+        },
+        {
+          "code": "IE 300",
+          "title": "Industrial Engineering Design",
+          "credits": null
+        },
+        {
+          "code": "IE 330",
+          "title": "Operations Research I",
+          "credits": null
+        },
+        {
+          "code": "IE 332",
+          "title": "Operations Research II",
+          "credits": null
+        },
+        {
+          "code": "IE 335",
+          "title": "Engineering Economy",
+          "credits": null
+        },
+        {
+          "code": "IE 336",
+          "title": "Statistical Quality Control",
+          "credits": null
+        },
+        {
+          "code": "IE 343",
+          "title": "Engineering Economics",
+          "credits": null
+        },
+        {
+          "code": "IE 370",
+          "title": "Manufacturing Processes",
+          "credits": null
+        },
+        {
+          "code": "IE 383",
+          "title": "Integrated Production Systems",
+          "credits": null
+        },
+        {
+          "code": "IE 386",
+          "title": "Work Analysis and Design",
+          "credits": null
+        },
+        {
+          "code": "IE 431",
+          "title": "Production Planning and Inventory Control",
+          "credits": null
+        },
+        {
+          "code": "IE 474",
+          "title": "Simulation Modeling",
+          "credits": null
+        },
+        {
+          "code": "IE 486",
+          "title": "Senior Design Project",
+          "credits": null
+        },
+        {
+          "code": "EE 201",
+          "title": "Linear Circuit Analysis I",
+          "credits": null
+        },
+        {
+          "code": "ME 200",
+          "title": "Thermodynamics I",
+          "credits": null
+        },
+        {
+          "code": "ME 270",
+          "title": "Basic Mechanics I",
+          "credits": null
+        },
+        {
+          "code": "NUCL 273",
+          "title": "Nuclear Engineering Fundamentals",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Engineering Courses",
+      "credits": 4,
+      "courses": [
+        {
+          "code": "ENGR 131",
+          "title": "Transforming Ideas to Innovation I",
+          "credits": null
+        },
+        {
+          "code": "ENGR 132",
+          "title": "Transforming Ideas to Innovation II",
+          "credits": null
+        },
+        {
+          "code": "ENGR 100",
+          "title": "First-Year Engineering Lectures",
+          "credits": null
+        },
+        {
+          "code": "ENGR 126",
+          "title": "Engineering Problem Solving and Computer Tools",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Mathematics and Science Requirements",
+      "credits": 32,
+      "courses": [
+        {
+          "code": "MA 165",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 166",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 261",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 265",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 266",
+          "title": "Ordinary Differential Equations",
+          "credits": null
+        },
+        {
+          "code": "CHM 115",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CS 159",
+          "title": "Programming Applications for Engineers",
+          "credits": null
+        },
+        {
+          "code": "PHYS 172",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "PHYS 241",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Technical Electives",
+      "credits": 15,
+      "courses": [],
+      "notes": "For more information, kindly check the section “Technical Elective Program for Industrial Engineering Students”."
+    },
+    {
+      "title": "English Language and Communication Skills",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "ENGL 100",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "ENGL 106",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "COM 114",
+          "title": "Kindly refer to Course Catalogue",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Education Requirement",
+      "credits": 15,
+      "courses": [],
+      "notes": "Students must satisfy the requirements of the General Education as per the following conditions:\nCourses must be drawn from the following General Education areas at AUM: Speech and Communication, English Language and Literature, History, Fine Arts, Physical Education, Self-Development and Life Style, Culinary Arts, Ethics, Social Sciences, Psychological Sciences, Natural Sciences, Child Development and Family Studies, Economics, Philosophy, Other Languages, and Science, Technology and Society (please refer to Course Catalogue, General Education section).\nIn order to ensure sufficient exposure to General Education topics, unless otherwise specified by the degree requirements of the academic major, the student cannot take more than 2 courses from the same area/sub-area as, shown in tables below:\nArea  Maximum Courses to Take\nSpeech and Communication  2\nEnglish Language and Literature  2\nHistory  2\nPhysical Education  2\nCulinary Arts  2\nEthics  2\nSocial Sciences  2\nPsychological Sciences  2\nNatural Sciences  2\nChild Development and Family Studies  2\nEconomics  2\nPhilosophy  2\nOther Languages  2\nScience, Technology and Society (STS)  2\nArea  Sub-Area  Maximum Courses to Take\nFine Arts  Arts and Design  2\nTheatre  2\nMusic  2\nFashion and Apparel Design  2\nPhotography and Media  2\nSelf-Development and Life Style  Academic and Career Skills Development  2\nCharacter and Leadership Skills Development  2\nLife Management Development  2\nDevelopment of Thinking Skills  2\nTechnology and Innovation  2\nCourses that are already required under other category than General Education requirement:\nCannot be considered as a General Education course;\nDo not count towards the 2-course limit in General Education requirement."
+    },
+    {
+      "title": "Free Electives",
+      "credits": 6,
+      "courses": [],
+      "notes": "Students are permitted up to 6 credit hours as Free Elective courses.\nThe Free Elective can be satisfied by most courses offered by AUM with few exceptions.\nThe general guidelines are listed as follows:\nAdditional General Education Electives or Professional Electives can be used for free elective credit.\nExcess introductory engineering electives can be used for the free elective.\nThe primary exceptions that are not permitted for the free elective are remedial courses like MAT 110.\nRemedial courses are courses that must be taken by student in order to build up certain academic knowledge or skills like math or English.\nRepeated courses are not counted as free electives."
+    },
+    {
+      "title": "Technical Elective Program for Industrial Engineering Students",
+      "credits": null,
+      "courses": [],
+      "notes": "In general, a technical elective is a course that develops new professional skills and/or builds upon previously obtained skills.\nCourses must focus on the development of skills in engineering, mathematics, business, or selected natural or social sciences.\nStudents are encouraged to treat the selection of technical elective courses in a structured way.\nStrategies for choosing technical elective courses are provided below in the subsection titled “Developing a Coherent Curriculum Plan“.\nStudents are encouraged to select technical elective courses based on career objectives."
+    },
+    {
+      "title": "Technical Elective Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "The following requirements are specified for the technical elective program.\nThese are the most basic requirements.\nEach IE student is required to take 15 credit hours of technical electives to complete their degree requirements.\nEvery course taken as a technical elective must be taken for a letter grade."
+    },
+    {
+      "title": "1. IE Courses",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 499",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": "Students are required to complete at least 6 of the 15 required technical elective credit hours with courses originated by the IE department.\nThese courses are referred to as IE technical electives.\nThere are additional guidelines as follows:\nIE 500 level courses;\nIE 490 courses; any course with this listing must have special approval by the IE Department to be considered for technical elective credit.\nIE 495 (Reserved for Co-Op / internship students (if any); student must complete 3 semesters to earn TE credit)\nIE 600 level courses; these require permission of instructor and the IE Department.\nStudents must have a cumulative GPA of 3.2 or higher.\nStudents are encouraged to consult the list of pre-approved technical electives contained in the “Emphasis Area” section below.\n2.\nNon-IE courses\nStudents in IE are encouraged to choose technical elective courses from outside the department if such courses align with their career goals.\nEach IE student has the option to take up to 9 credit hours of non-IE courses to complete the technical elective requirements.\nThe general criteria for non-IE courses that may be considered for TE credit are provided below.\nApproval of TE course is under IE Department.\n300-level or higher courses taken in any other engineering major that are not duplicates of IE courses.\nPHYS courses at a level higher than PHYS 241.\nCHM courses at a level higher than CHM 116.\nMA courses more advanced than MA 301."
+    },
+    {
+      "title": "Developing a Coherent Curriculum Plan",
+      "credits": null,
+      "courses": [],
+      "notes": "Each student in the Industrial Engineering program should strive to create a plan for their education that maximizes the opportunities available to them as AUM students.\nAUM offers a number of courses that count towards their elective requirements.\nElective courses (regardless of their classification) should not be considered “space-filling” courses.\nEach course taken can be selected to fulfill a desire to obtain a specific skill-set, and/or satisfy a desire for non-career related interests.\nIn many cases, a series of elective courses can be selected to satisfy special interests.\nSelecting electives according to a coherent plan is always preferred compared with a random selection of courses.\nThere are many ways to develop a coherent plan, an example is given in the subsection “Emphasis Areas” Alternative approaches should be discussed with the student’s academic advisor.\nStudents should have a clear direction in mind (e.g., career goal) to allow the academic advisor to provide greater assistance in selecting potential courses."
+    },
+    {
+      "title": "Emphasis Areas",
+      "credits": null,
+      "courses": [],
+      "notes": "The IE program is developing several emphasis areas that students might use to enhance their curriculum and guide their course selection decisions.\nMost of these emphasis areas focus on the use of technical elective courses.\nOther emphasis areas may involve taking general education courses in conjunction with technical electives.\nCurrent emphasis areas include the following:"
+    },
+    {
+      "title": "Production and Management Systems",
+      "credits": null,
+      "courses": [],
+      "notes": "Note that some of the emphasis areas correspond to core areas of the current IE curriculum.\nStudents may choose to increase their knowledge of a core area with their technical (and general education) electives.\nThe details contained are focused on developing skills necessary for each emphasis area and provides a listing of courses that provide the necessary skills, or build upon skills developed in the core IE curriculum.\nEach emphasis area is strictly meant to be a guide for students when selecting courses (and potential career paths).\nNo record of students completing the “requirements” of an emphasis area will be noted on their final transcript.\nHowever, some pursuing an emphasis area may result in the student completing the requirements for a minor, if offered."
+    },
+    {
+      "title": "1. Human Factors Emphasis Area",
+      "credits": null,
+      "courses": [],
+      "notes": "The field of Human Factors in Industrial Engineering focuses on the design of tools, machines, systems, tasks, jobs and environments for safe, comfortable, and effective human involvement and interaction.\nThe field is characterized by the systematic application of knowledge about sensory, perceptual, mental, and psychomotor characteristics.\nIndustrial engineers with a Human Factors background are better able to create designs that take into account human abilities and limitations, both physical and cognitive.\nPhysical applications include the design of working environments that are safe and comfortable, taking into consideration typical as well as handicapped physical human characteristics.\nCognitive applications take into account the ways humans perceive, understand, and react to stimuli and work to support safe, efficient, and expedient responses.\nDesigns by Human Factors engineers aim to enhance operational use while simultaneously improving the quality of working life.\nHuman Factors expertise is desired in industries requiring frequent interactions between humans and systems, such as the transportation, manufacturing, and healthcare industries.\nExample applications include laying out effective computerized information displays for doctors in operating rooms, designing ways that handicapped individuals can productively operate vehicles, determining mechanisms to keep workers safe in machining operations, and creating software logic to determine if drivers are impaired and then processes to safely override impaired drivers’ actions.\nHuman Factors specialists have extensive knowledge of:\nHuman perception and cognition\nPhysical and physiological characteristics of humans\nHuman computer interaction\nErgonomics (study of work processes)\nHuman Factors specialists have effective technical skills in:\nWork measurement\nJob and task design and analysis\nModeling and problem-solving\nDesign of experiments"
+    },
+    {
+      "title": "Courses",
+      "credits": null,
+      "courses": [],
+      "notes": "Courses taken from the following groupings help provide students with a deeper understanding of human factors.\nThe courses listed below are listed in the Course Catalogue.\nThey are meant to provide guidance as to what a student might take if they are interested in this emphasis area.\nThe list of courses below is not exhaustive.\nIn addition, the regularity of offerings of the listed courses is not guaranteed.\nSome courses are offered every semester, every other semester, or every other year.\nOther courses may have been offered at some point, but may not be offered again for a certain period, however will be included in this list in hopes they will be offered again."
+    },
+    {
+      "title": "A. Statistics and Design of Experiments",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 330",
+          "title": "Probability and Statistics in Engineering II",
+          "credits": null
+        },
+        {
+          "code": "IE 533",
+          "title": "Industrial Applications of Statistics",
+          "credits": null
+        },
+        {
+          "code": "STAT 512",
+          "title": "Applied Regression Analysis",
+          "credits": null
+        },
+        {
+          "code": "STAT 514",
+          "title": "Design of Experiments",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "B. Ergonomics",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 386",
+          "title": "Work Analysis and Design I",
+          "credits": null
+        },
+        {
+          "code": "IE 556",
+          "title": "Job Design",
+          "credits": null
+        },
+        {
+          "code": "IE 558",
+          "title": "Safety Engineering",
+          "credits": null
+        },
+        {
+          "code": "PSY 272",
+          "title": "Introduction to Industrial-Organizational Psychology",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "C. Human Perception and Cognition",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 486",
+          "title": "Work Analysis and Design II",
+          "credits": null
+        },
+        {
+          "code": "IE 559",
+          "title": "Cognitive Engineering of Interactive Software",
+          "credits": null
+        },
+        {
+          "code": "IE 577",
+          "title": "Human Factors in Engineering",
+          "credits": null
+        },
+        {
+          "code": "PSY 310",
+          "title": "Sensory and Perceptual Processes",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "D. Characteristics of Humans",
+      "credits": null,
+      "courses": [
+        {
+          "code": "PSY 314",
+          "title": "Introduction to Learning",
+          "credits": null
+        },
+        {
+          "code": "PSY 333",
+          "title": "Motivation",
+          "credits": null
+        },
+        {
+          "code": "PSY 475",
+          "title": "Work Motivation and Job Satisfaction",
+          "credits": null
+        },
+        {
+          "code": "PSY 511",
+          "title": "Psychophysics",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "2. Financial Engineering Emphasis Area",
+      "credits": null,
+      "courses": [],
+      "notes": "Financial Engineering is a multidisciplinary field that deals primarily with financial instruments, especially derivative securities.\nThe field applies engineering methodologies to problems in finance, and employs financial theory and applied mathematics, as well as computation and the practice of programming to make pricing, hedging, trading and portfolio management decisions.\nUtilizing various derivative securities and other methods, Financial Engineering aims to precisely control the financial risk (both market and credit) that an entity takes on.\nMethods can be employed to take on substantial risks under certain events, or largely eliminate other risks by utilizing combinations of derivative and other securities.\nFinancial Engineering can be applied to many different types of currencies and pricing options.\nThese include equity, fixed income such as bonds, commodities such as oil or gold, as well as derivatives, swaps, futures, forwards, options, and embedded options.\nIndustrial Engineering graduates bring a unique perspective to these financial analyses due to the nature of the discipline and the techniques and skills acquired as part of the Industrial Engineering curriculum.\nDue to the breadth of engineering education and the mathematical focus of much of the discipline, Industrial Engineering graduates frequently find good opportunities with banks, financial management and consulting companies, and other firms that deal with securities and/or perform quantitative analyses.\nFinancial Engineering specialists have extensive knowledge of:\nFinancial mathematics\nStochastic processes"
+    },
+    {
+      "title": "Economics",
+      "credits": null,
+      "courses": [],
+      "notes": "Financial Engineering specialists have effective technical skills in:"
+    },
+    {
+      "title": "Programming",
+      "credits": null,
+      "courses": [],
+      "notes": "Data manipulation and analysis\nModeling and problem-solving"
+    },
+    {
+      "title": "Courses",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 544",
+          "title": "Introduction to Financial Engineering",
+          "credits": null
+        }
+      ],
+      "notes": "Courses taken from the following groupings help to provide students with a deeper understanding of Financial Engineering.\nThe courses listed below are listed in the course catalogue.\nThey are meant to provide guidance as to what a student might take if they are interested in this emphasis area.\nThe list of courses below is not exhaustive.\nIn addition, the regularity of offerings of the listed courses is not guaranteed.\nSome courses are offered every semester, every other semester, or every other year.\nOther courses may have been offered at some point, but may not be offered again for a certain period, however will be included in this list in hopes they will be offered again.\nA.\nBasics of Financial instruments"
+    },
+    {
+      "title": "B. Modeling and Problem-Solving",
+      "credits": null,
+      "courses": [
+        {
+          "code": "MA 266",
+          "title": "Ordinary Differential Equations",
+          "credits": null
+        },
+        {
+          "code": "MA 303",
+          "title": "Differential Equations and Partial Differential Equations for Engineering and the Sciences",
+          "credits": null
+        },
+        {
+          "code": "MA 428",
+          "title": "Introduction to Fourier Analysis",
+          "credits": null
+        },
+        {
+          "code": "IE 230",
+          "title": "Probability and Statistics in Engineering I",
+          "credits": null
+        },
+        {
+          "code": "IE 330",
+          "title": "Probability and Statistics in Engineering II",
+          "credits": null
+        },
+        {
+          "code": "STAT 420",
+          "title": "Introduction to Time Series",
+          "credits": null
+        },
+        {
+          "code": "STAT 512",
+          "title": "Applied Regression Analysis",
+          "credits": null
+        },
+        {
+          "code": "IE 336",
+          "title": "Operations Research – Stochastic Models",
+          "credits": null
+        },
+        {
+          "code": "IE 536",
+          "title": "Stochastic Models in Operations Research",
+          "credits": null
+        }
+      ],
+      "notes": "Differential Equations:\nStatistics:\nStochastic Modeling:"
+    },
+    {
+      "title": "C. Simulation and Programming",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CE 462",
+          "title": "Object-Oriented Programming in C++ and Java",
+          "credits": null
+        },
+        {
+          "code": "IE 581",
+          "title": "Simulation Design and Analysis",
+          "credits": null
+        },
+        {
+          "code": "CS 314",
+          "title": "Numerical Methods",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "D. Economics",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 343",
+          "title": "Engineering Economics",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "3. Operations Research Emphasis Area",
+      "credits": null,
+      "courses": [],
+      "notes": "Operations Research (OR) is the discipline of applying advanced analytical methods to support decision making.\nIt is sometimes also referred to as Management Science or Decision Science.\nThe discipline draws on knowledge from mathematical and computing sciences to analyze complex decision-making problems with the goal of creating optimal solutions.\nOperations Research finds applications for a wide variety of problems such as: determining what petroleum products to make out of which crude oils, selecting the best path to take in transportation networks, identifying the best product placements in retail establishments, scheduling operating rooms in hospitals, optimizing financial plans for investment companies, ensuring appropriate inventory levels for spare parts manufacturers, and many more.\nOperations Research techniques are applied to a variety of different business functions ranging from finance to manufacturing and marketing, and they provide significant benefits in almost every industry.\nAs such, Industrial Engineers with an OR focus have a wealth of career opportunities.\nOR Specialists can be found in healthcare, automotive, energy, metals, and discrete parts manufacturing industries, to name a few; they are also prevalent in the government sector helping analyze issues related to defense, health, environment, and other issues.\nIt should be noted that many OR-focused careers require students to possess an advanced degree.\nThe courses listed below help to prepare students for advanced studies in OR.\nOperations Research specialists have extensive knowledge of:\nMathematical modeling and analysis\nProbability and statistics"
+    },
+    {
+      "title": "Simulation",
+      "credits": null,
+      "courses": [],
+      "notes": "Operations Research specialists have effective technical skills in:"
+    },
+    {
+      "title": "Programming",
+      "credits": null,
+      "courses": [],
+      "notes": "Data manipulation and analysis\nModeling and problem-solving"
+    },
+    {
+      "title": "Courses",
+      "credits": null,
+      "courses": [],
+      "notes": "Courses taken from the following groupings help to provide students with a deeper understanding of Operations Research.\nThe courses listed below are listed in the Course Catalogue.\nThey are meant to provide guidance as to what a student might take if they are interested in this emphasis area.\nThe list of courses below is not an exhaustive list.\nIn addition, the regularity of offerings of the listed courses is not guaranteed.\nSome courses are offered every semester, every other semester, or every other year.\nOther courses may have been offered at some point, but may not be offered again for a certain period, however will be included in this list in hopes they will be offered again."
+    },
+    {
+      "title": "A. Simulation",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 580",
+          "title": "System Simulation",
+          "credits": null
+        },
+        {
+          "code": "IE 581",
+          "title": "Simulation Design and Analysis",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "B. Optimization",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 335",
+          "title": "Operations Research – Optimization",
+          "credits": null
+        },
+        {
+          "code": "IE 535",
+          "title": "Linear Programming",
+          "credits": null
+        },
+        {
+          "code": "IE 538",
+          "title": "Nonlinear Optimization Algorithms and Models",
+          "credits": null
+        },
+        {
+          "code": "IE 634",
+          "title": "Integer Programming",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "C. Mathematical Modeling and Analysis",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 230",
+          "title": "Probability and Statistics in Engineering I",
+          "credits": null
+        },
+        {
+          "code": "IE 336",
+          "title": "Operations Research – Stochastic Models",
+          "credits": null
+        },
+        {
+          "code": "IE 536",
+          "title": "Stochastic Models in Operations Research",
+          "credits": null
+        },
+        {
+          "code": "MA 341",
+          "title": "Foundations of Analysis",
+          "credits": null
+        },
+        {
+          "code": "MA 375",
+          "title": "Introduction to Discrete Mathematics",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "D. Programming and Problem-solving",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CS 314",
+          "title": "Numerical Methods",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "4. Production and Management Systems Emphasis Area",
+      "credits": null,
+      "courses": [],
+      "notes": "The Production and Management Systems emphasis area focuses on the overall production and distribution of goods and services.\nThe specialization aims to continuously improve material flow in a manner that enhances the quality of the final product and service while reducing the costs and waste to producers, workers and consumers.\nIndustrial Engineering applications that fall under this emphasis include production planning, scheduling, and control; robotic design and implementation; materials handling, logistics, and storage systems design and control; and facilities location and design.\nAs such, IEs with this focus are found in all sorts of diverse production and supply chain environments all over the world: automotive, electronics, healthcare materials, pharmaceuticals, energy system components, package delivery, etc.\nIndustrial Engineers with a Production and Management Systems background often are involved with quality control using statistical techniques for productivity improvement.\nIn addition, they frequently use operations research techniques to solve production problems that require an optimal blending of economic, human, and physical resources.\nProduction systems specialists have extensive knowledge of:\nSix sigma, total quality management, just-in-time\nFacilities design"
+    },
+    {
+      "title": "Simulation",
+      "credits": null,
+      "courses": [],
+      "notes": "Production systems specialists have effective technical skills in:"
+    },
+    {
+      "title": "Programming",
+      "credits": null,
+      "courses": [],
+      "notes": "Data manipulation and analysis\nModeling and problem-solving"
+    },
+    {
+      "title": "Courses",
+      "credits": null,
+      "courses": [],
+      "notes": "Courses taken from the following groupings provide help to students with a deeper understanding of production and management systems.\nThe courses listed below are listed in the Course Catalogue.\nThey are meant to provide guidance as to what a student might take if they are interested in this emphasis area.\nThe list of courses below is not an exhaustive list.\nIn addition, the regularity of offerings of the listed courses is not guaranteed.\nSome courses are offered every semester, every other semester, or every other year.\nOther courses may have been offered at some point, but may not be offered again for a certain period, however will be included in this list in hopes they will be offered again."
+    },
+    {
+      "title": "A. Quality Management and Control",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 330",
+          "title": "Probability and Statistics in Engineering II",
+          "credits": null
+        },
+        {
+          "code": "IE 530",
+          "title": "Quality Control",
+          "credits": null
+        },
+        {
+          "code": "IE 533",
+          "title": "Industrial Applications of Statistics",
+          "credits": null
+        },
+        {
+          "code": "MGMT 405",
+          "title": "Six Sigma and Quality Management",
+          "credits": null
+        },
+        {
+          "code": "IE 566",
+          "title": "Production Management and Control",
+          "credits": null
+        },
+        {
+          "code": "STAT 513",
+          "title": "Statistical Quality Control",
+          "credits": null
+        },
+        {
+          "code": "STAT 514",
+          "title": "Design of Experiments",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "B. Simulation",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 580",
+          "title": "Systems Simulation",
+          "credits": null
+        },
+        {
+          "code": "IE 581",
+          "title": "Simulation Design and Analysis",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "C. Design and Analysis of Production Systems",
+      "credits": null,
+      "courses": [
+        {
+          "code": "IE 383",
+          "title": "Integrated Production Systems I",
+          "credits": null
+        },
+        {
+          "code": "IE 484",
+          "title": "Integrated Production Systems II",
+          "credits": null
+        },
+        {
+          "code": "IE 582",
+          "title": "Advanced Facilities Design",
+          "credits": null
+        },
+        {
+          "code": "IE 583",
+          "title": "Design and Evaluation of Material Handling Systems",
+          "credits": null
+        },
+        {
+          "code": "IE 579",
+          "title": "Design and Control of Production and Manufacturing Systems",
+          "credits": null
+        }
+      ],
+      "notes": null
+    }
+  ]
+}

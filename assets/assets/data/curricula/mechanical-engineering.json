@@ -1,0 +1,886 @@
+{
+  "slug": "mechanical-engineering",
+  "name_en": "Mechanical Engineering",
+  "name_ar": "الهندسة الميكانيكية",
+  "college": "engineering",
+  "degree": "Bachelor of Science in Mechanical Engineering",
+  "total_credits": 132,
+  "sections": [
+    {
+      "title": "Degree Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "The Bachelor of Science in Mechanical Engineering degree requires a total of minimum 132 credit hours and a minimum cumulative grade point average (CGPA) of 2.00;\nMinimum grade point average (GPA) of 2.00 is required in following courses: ME 200, ME 263, ME 270, ME 274, ME 290, ME 309, ME 315, ME 323, ME 352, ME 365, ME 375, ME 463, MA 261, MA 262, MA 303, MSE 230, EE 201, EE 207, PHYS 241; and two of the three Restricted Electives (ME 300, ME 452, and ME 475)."
+    },
+    {
+      "title": "Mechanical Sciences",
+      "credits": 12,
+      "courses": [
+        {
+          "code": "ME 270",
+          "title": "Basic Mechanics I",
+          "credits": null
+        },
+        {
+          "code": "ME 274",
+          "title": "Basic Mechanics II",
+          "credits": null
+        },
+        {
+          "code": "ME 323",
+          "title": "Mechanics of Materials",
+          "credits": null
+        },
+        {
+          "code": "MSE 230",
+          "title": "Structure and Properties of Materials",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Mechanical Engineering Seminars",
+      "credits": 1,
+      "courses": [
+        {
+          "code": "ME 290",
+          "title": "ME Seminar",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Systems, Measurements and Control",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "EE 201",
+          "title": "Linear Circuit Analysis I",
+          "credits": null
+        },
+        {
+          "code": "EE 207",
+          "title": "Electronic Measurement Lab",
+          "credits": null
+        },
+        {
+          "code": "ME 365",
+          "title": "Measurement Systems",
+          "credits": null
+        },
+        {
+          "code": "ME 375",
+          "title": "Systems Modeling and Analysis",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Thermal / Fluid Sciences",
+      "credits": 11,
+      "courses": [
+        {
+          "code": "ME 200",
+          "title": "Thermodynamics I",
+          "credits": null
+        },
+        {
+          "code": "ME 309",
+          "title": "Fluid Mechanics",
+          "credits": null
+        },
+        {
+          "code": "ME 315",
+          "title": "Heat and Mass Transfer",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Design Courses",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "ME 263",
+          "title": "Introduction to Mechanical Engineering Design",
+          "credits": null
+        },
+        {
+          "code": "ME 352",
+          "title": "Machine Design I",
+          "credits": null
+        },
+        {
+          "code": "ME 463",
+          "title": "Engineering Design",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Restricted Electives",
+      "credits": 6,
+      "courses": [
+        {
+          "code": "ME 300",
+          "title": "Thermodynamics II",
+          "credits": null
+        },
+        {
+          "code": "ME 452",
+          "title": "Machine Design II",
+          "credits": null
+        },
+        {
+          "code": "ME 475",
+          "title": "Automatic Control Systems",
+          "credits": null
+        }
+      ],
+      "notes": "Complete two of the following three courses."
+    },
+    {
+      "title": "Professional Electives",
+      "credits": 12,
+      "courses": [],
+      "notes": "Professional electives enable the student to specialize their background in a technical area of special interest.\nStudents must complete 12 credit hours in engineering, mathematics, natural sciences to satisfy the professional electives category.\nKindly refer to the section “Professional Electives in Mechanical Engineering” and the Course Catalogue for more details on professional electives and for a list of pre-approved professional electives topic areas and courses."
+    },
+    {
+      "title": "Introduction to Engineering",
+      "credits": 4,
+      "courses": [
+        {
+          "code": "ENGR 131",
+          "title": "Transforming Ideas to Innovation I",
+          "credits": null
+        },
+        {
+          "code": "ENGR 132",
+          "title": "Transforming Ideas to Innovation II",
+          "credits": null
+        }
+      ],
+      "notes": "Alternatively, the student may take ENGR 100 and ENGR 126"
+    },
+    {
+      "title": "General Engineering requirement for Mechanical Engineering",
+      "credits": 2,
+      "courses": [
+        {
+          "code": "CGT 163",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Mathematics Requirements",
+      "credits": 19,
+      "courses": [
+        {
+          "code": "MA 165",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 166",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 261",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 262",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 303",
+          "title": "Differential Equations and Partial Differential Equations for Engineering and the Sciences",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Science Requirements",
+      "credits": 14,
+      "courses": [
+        {
+          "code": "PHYS 172",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "PHYS 241",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 115",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 110",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 121",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 135",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 126",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 112",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 116",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "PHYS 322",
+          "title": "Intermediate Optics",
+          "credits": null
+        },
+        {
+          "code": "PHYS 342",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "EAPS 125",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "English Language and Communication Skills",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "ENGL 100",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENGL 106",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "COM 114",
+          "title": "Kindly refer to Course Catalogue",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Education Requirement",
+      "credits": 17,
+      "courses": [],
+      "notes": "Students must satisfy the requirements of the General Education as per the following conditions:\nCourses must be drawn from the following General Education areas at AUM: Speech and Communication, English Language and Literature, History, Fine Arts, Physical Education, Self-Development and Life Style, Culinary Arts, Ethics, Social Sciences, Psychological Sciences, Natural Sciences, Child Development and Family Studies, Economics, Philosophy, Other Languages, and Science, Technology and Society (please refer to Course Catalogue, General Education section).\nIn order to ensure sufficient exposure to General Education topics, unless otherwise specified by the degree requirements of the academic major, the student cannot take more than 2 courses from the same area/sub-area as, shown in tables below:\nArea  Maximum Courses to Take\nSpeech and Communication  2\nEnglish Language and Literature  2\nHistory  2\nPhysical Education  2\nCulinary Arts  2\nEthics  2\nSocial Sciences  2\nPsychological Sciences  2\nNatural Sciences  2\nChild Development and Family Studies  2\nEconomics  2\nPhilosophy  2\nOther Languages  2\nScience, Technology and Society (STS)  2\nArea  Sub-Area  Maximum Courses to Take\nFine Arts  Arts and Design  2\nTheatre  2\nMusic  2\nFashion and Apparel Design  2\nPhotography and Media  2\nSelf-Development and Life Style  Academic and Career Skills Development  2\nCharacter and Leadership Skills Development  2\nLife Management Development  2\nDevelopment of Thinking Skills  2\nTechnology and Innovation  2\nCourses that are already required under other category than General Education requirement:\ncannot be considered as a General Education course;\ndo not count towards the 2-course limit in General Education requirement."
+    },
+    {
+      "title": "Free Electives",
+      "credits": 3,
+      "courses": [],
+      "notes": "Students are permitted one 3 credit hour Free Elective.\nThe Free Elective can be satisfied by most courses offered by AUM with few exceptions.\nThe general guidelines are listed as follows:\nAdditional General Education Electives or Professional Electives can be used for free elective credit.\nExcess introductory engineering electives can be used for the free elective.\nThe primary exceptions that are not permitted for the free elective are remedial courses like MAT 110.\nRemedial courses are courses that must be taken by student in order to build up certain academic knowledge or skills like math or English.\nRepeated courses are not counted as free electives."
+    },
+    {
+      "title": "1. Professional Electives in Mechanical Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "Professional electives in the Mechanical Engineering Curriculum enable the students to specialize their background in a technical area of special interest.\nStudents must complete 12 credit hours in engineering, mathematics, natural sciences, or project option research to satisfy the professional electives category.\nGenerally, courses can be selected from the broad classifications listed as follows:\nNon-required ME 300, 400 and 500 level courses.\nPhysics courses of level higher than PHYS 241.\nMathematics courses more advanced than MA 303.\nTechnical Writing, ENGL 421.\n300, 400, or 500 level courses in any engineering program other than mechanical engineering that are not duplicates of other courses taken.\nHowever, not all courses within these classifications are acceptable for professional elective credit.\nThe professional elective course must appear in the list of professional electives provided below in the section “Professional Elective Topic Areas and Courses”.\nIf a course does not appear on the professional electives list, a written request may be submitted to the Dean’s Office to have a course considered for professional elective credit.\nTo assist students in their selection, the list of professional electives is divided into topic areas.\nNeither the list of topic areas nor the list of professional electives courses within each area, is intended to be all-inclusive.\nStudents should refer to the appropriate undergraduate catalog for course description and prerequisite information.\nStudents are encouraged to discuss their career plans and professional elective program with academic advisors whose expertise are in their area of special interest."
+    },
+    {
+      "title": "2. Professional Elective Topic Areas and Courses",
+      "credits": null,
+      "courses": [],
+      "notes": "Kindly refer to the Course Catalogue for more details about the courses."
+    },
+    {
+      "title": "Design and Manufacturing",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ABE 450",
+          "title": "Finite Element Method in Design and Optimization",
+          "credits": null
+        },
+        {
+          "code": "ME 556",
+          "title": "Lubrication, Friction and Wear",
+          "credits": null
+        },
+        {
+          "code": "ME 444",
+          "title": "Computer-Aided Design and Prototyping",
+          "credits": null
+        },
+        {
+          "code": "ME 570",
+          "title": "Machine Design",
+          "credits": null
+        },
+        {
+          "code": "ME 486",
+          "title": "Introduction to Manufacturing Engineering",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Fluid Mechanics and Power Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 415",
+          "title": "Energy Systems Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 430",
+          "title": "Power Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 510",
+          "title": "Gas Dynamics",
+          "credits": null
+        },
+        {
+          "code": "ME 509",
+          "title": "Intermediate Fluid Mechanics",
+          "credits": null
+        },
+        {
+          "code": "ME 433",
+          "title": "Principles of Turbomachinery",
+          "credits": null
+        },
+        {
+          "code": "ME 614",
+          "title": "Computational Fluid Dynamics",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Materials",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 569",
+          "title": "Mechanical Behavior of Materials",
+          "credits": null
+        },
+        {
+          "code": "ME 473",
+          "title": "Engineering Design Using Modern Materials",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Nuclear Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "NUCL 200",
+          "title": "Introduction to Nuclear Engineering",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Plant Engineering, Acoustics and Noise Control, and Vibration",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 563",
+          "title": "Mechanical Vibrations",
+          "credits": null
+        },
+        {
+          "code": "ME 580",
+          "title": "Nonlinear Engineering Systems",
+          "credits": null
+        },
+        {
+          "code": "ME 413",
+          "title": "Noise Control",
+          "credits": null
+        },
+        {
+          "code": "ME 513",
+          "title": "Engineering Acoustics",
+          "credits": null
+        },
+        {
+          "code": "ME 418",
+          "title": "Engineering of Environmental Systems and Equipment",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "New Automotive Engineering and Combustion",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 430",
+          "title": "Power Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 540",
+          "title": "Combustion in Internal Combustion Engines",
+          "credits": null
+        },
+        {
+          "code": "ME 440",
+          "title": "Automotive Prime Movers: Green Engines and Clean Fuel",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Dynamics",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 560",
+          "title": "Kinematics",
+          "credits": null
+        },
+        {
+          "code": "ME 565",
+          "title": "Vehicle Dynamics",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Thermodynamics",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 500",
+          "title": "Thermodynamics",
+          "credits": null
+        },
+        {
+          "code": "ME 505",
+          "title": "Intermediate Heat Transfer",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Control Systems, and Measurements",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 588",
+          "title": "Mechatronics",
+          "credits": null
+        },
+        {
+          "code": "EE 301",
+          "title": "Signals and Systems",
+          "credits": null
+        },
+        {
+          "code": "EE 321",
+          "title": "Electromechanical Motion Devices",
+          "credits": null
+        },
+        {
+          "code": "EE 483",
+          "title": "Digital Control Systems Analysis and Design",
+          "credits": null
+        },
+        {
+          "code": "ME 581",
+          "title": "Numerical Methods in Mechanical Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 585",
+          "title": "Instrumentation for Engineering Measurement",
+          "credits": null
+        },
+        {
+          "code": "ME 575",
+          "title": "Theory and Design of Control Systems",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Computer Science",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CS 240",
+          "title": "Programming in C",
+          "credits": null
+        },
+        {
+          "code": "CS 250",
+          "title": "Computer Architecture",
+          "credits": null
+        },
+        {
+          "code": "CS 251",
+          "title": "Data Structures and Algorithms",
+          "credits": null
+        },
+        {
+          "code": "CS 252",
+          "title": "Systems Programming",
+          "credits": null
+        },
+        {
+          "code": "CS 352",
+          "title": "Compilers: Principles and Practice",
+          "credits": null
+        },
+        {
+          "code": "CS 354",
+          "title": "Operating Systems",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Energy and Environment",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 415",
+          "title": "Energy Systems Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 418",
+          "title": "Engineering of Environmental Systems and Equipment",
+          "credits": null
+        },
+        {
+          "code": "ME 430",
+          "title": "Power Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 440",
+          "title": "Automotive Prime Movers: Green Engines and Clean Fuel",
+          "credits": null
+        },
+        {
+          "code": "ENGR 355",
+          "title": "Engineering Environmental Sustainability",
+          "credits": null
+        },
+        {
+          "code": "ENGR 557",
+          "title": "Air Quality Management",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Engineering Professionalism and Management",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 492",
+          "title": "Technology and Values",
+          "credits": null
+        },
+        {
+          "code": "IE 577",
+          "title": "Human Factors in Engineering",
+          "credits": null
+        },
+        {
+          "code": "ENGR 524",
+          "title": "Legal Aspects in Engineering Practice",
+          "credits": null
+        },
+        {
+          "code": "IE 558",
+          "title": "Safety Engineering",
+          "credits": null
+        },
+        {
+          "code": "MGMT 361",
+          "title": "Operations Management",
+          "credits": null
+        },
+        {
+          "code": "IE 343",
+          "title": "Engineering Economics",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Software Engineering for Manufacturing Automation",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 573",
+          "title": "Interactive Computer Graphics",
+          "credits": null
+        },
+        {
+          "code": "ME 586",
+          "title": "Microprocessors in Electromechanical Systems",
+          "credits": null
+        },
+        {
+          "code": "CE 362",
+          "title": "Microprocessor Systems and Interfacing",
+          "credits": null
+        },
+        {
+          "code": "CE 473",
+          "title": "Programming Languages for Artificial Intelligence",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Applied Thermal Sciences and Combustion",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 415",
+          "title": "Energy Systems Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 418",
+          "title": "Engineering of Environmental Systems and Equipment",
+          "credits": null
+        },
+        {
+          "code": "ME 430",
+          "title": "Power Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 433",
+          "title": "Principles of Turbomachinery",
+          "credits": null
+        },
+        {
+          "code": "ME 440",
+          "title": "Automotive Prime Movers: Green Engines and Clean Fuel",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Robotics",
+      "credits": null,
+      "courses": [
+        {
+          "code": "EE 321",
+          "title": "Electromechanical Motion Devices",
+          "credits": null
+        },
+        {
+          "code": "ME 588",
+          "title": "Mechatronics",
+          "credits": null
+        },
+        {
+          "code": "CE 569",
+          "title": "Introduction to Robotic Systems",
+          "credits": null
+        },
+        {
+          "code": "ME 572",
+          "title": "Design and Analysis of Robotic Manipulators",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Aerodynamics and Propulsion",
+      "credits": null,
+      "courses": [
+        {
+          "code": "AAE 334",
+          "title": "Aerodynamics",
+          "credits": null
+        },
+        {
+          "code": "ME 438",
+          "title": "Gas Turbine Engines",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Biomedical Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ENGR 461",
+          "title": "Biomedical Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 577",
+          "title": "Human Motion Kinetics",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Heat and Mass Transfer",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 321",
+          "title": "Heat Transfer",
+          "credits": null
+        },
+        {
+          "code": "ME 415",
+          "title": "Energy Systems Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 421",
+          "title": "Heating and Air Conditioning I",
+          "credits": null
+        },
+        {
+          "code": "ME 503",
+          "title": "Micro-and-Nano-Scale Energy Transfer Processes",
+          "credits": null
+        },
+        {
+          "code": "ME 505",
+          "title": "Intermediate Heat Transfer",
+          "credits": null
+        },
+        {
+          "code": "ME 506",
+          "title": "Two-Phase Flow and Heat Transfer",
+          "credits": null
+        },
+        {
+          "code": "ME 507",
+          "title": "Laser Processing",
+          "credits": null
+        },
+        {
+          "code": "ME 511",
+          "title": "Heat Transfer in Electronic Systems",
+          "credits": null
+        },
+        {
+          "code": "ME 599",
+          "title": "Industrial Refrigeration",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Miscellaneous Courses for Mechanical Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ME 598",
+          "title": "Industrial Ventilation",
+          "credits": null
+        },
+        {
+          "code": "ENGR 414",
+          "title": "Building Mechanical and Electrical System Design",
+          "credits": null
+        },
+        {
+          "code": "ENGR 311",
+          "title": "Architectural Engineering",
+          "credits": null
+        },
+        {
+          "code": "ME 584",
+          "title": "Mechanical Aspects of Desalination Processes",
+          "credits": null
+        },
+        {
+          "code": "ME 555",
+          "title": "Planned Maintenance",
+          "credits": null
+        },
+        {
+          "code": "ME 497 (I)",
+          "title": "Mechanical Engineering Graduation Projects I",
+          "credits": null
+        },
+        {
+          "code": "ME 497 (II)",
+          "title": "Mechanical Engineering Graduation Projects II",
+          "credits": null
+        },
+        {
+          "code": "STAT 301",
+          "title": "Elementary Statistical Methods",
+          "credits": null
+        }
+      ],
+      "notes": null
+    }
+  ]
+}

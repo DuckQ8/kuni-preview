@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "computer-engineering",
+    "name_en": "Computer Engineering",
+    "name_ar": "هندسة الحاسوب",
+    "college": "engineering",
+    "total_credits": 128
+  },
+  {
+    "slug": "electrical-engineering",
+    "name_en": "Electrical Engineering",
+    "name_ar": "الهندسة الكهربائية",
+    "college": "engineering",
+    "total_credits": 128
+  },
+  {
+    "slug": "mechanical-engineering",
+    "name_en": "Mechanical Engineering",
+    "name_ar": "الهندسة الميكانيكية",
+    "college": "engineering",
+    "total_credits": 132
+  },
+  {
+    "slug": "civil-engineering",
+    "name_en": "Civil Engineering",
+    "name_ar": "الهندسة المدنية",
+    "college": "engineering",
+    "total_credits": 136
+  },
+  {
+    "slug": "chemical-engineering",
+    "name_en": "Chemical Engineering",
+    "name_ar": "الهندسة الكيميائية",
+    "college": "engineering",
+    "total_credits": 134
+  },
+  {
+    "slug": "industrial-engineering",
+    "name_en": "Industrial Engineering",
+    "name_ar": "الهندسة الصناعية",
+    "college": "engineering",
+    "total_credits": 125
+  },
+  {
+    "slug": "architectural-engineering",
+    "name_en": "Architectural Engineering",
+    "name_ar": "الهندسة المعمارية",
+    "college": "engineering",
+    "total_credits": 136
+  },
+  {
+    "slug": "accounting",
+    "name_en": "Accounting",
+    "name_ar": "المحاسبة",
+    "college": "business",
+    "total_credits": 121
+  },
+  {
+    "slug": "finance",
+    "name_en": "Finance",
+    "name_ar": "المالية",
+    "college": "business",
+    "total_credits": 121
+  },
+  {
+    "slug": "marketing",
+    "name_en": "Marketing",
+    "name_ar": "التسويق",
+    "college": "business",
+    "total_credits": 121
+  },
+  {
+    "slug": "human-resource-management",
+    "name_en": "Human Resource Management",
+    "name_ar": "إدارة الموارد البشرية",
+    "college": "business",
+    "total_credits": 121
+  },
+  {
+    "slug": "management-information-systems",
+    "name_en": "Management Information Systems",
+    "name_ar": "نظم المعلومات الإدارية",
+    "college": "business",
+    "total_credits": 121
+  },
+  {
+    "slug": "information-systems-and-technology",
+    "name_en": "Information Systems and Technology",
+    "name_ar": "نظم وتكنولوجيا المعلومات",
+    "college": "engineering",
+    "total_credits": 124
+  },
+  {
+    "slug": "general-electives",
+    "name_en": "General Elective Courses",
+    "name_ar": "المقررات الاختيارية العامة",
+    "college": "business",
+    "total_credits": 0
+  }
+]

@@ -1,0 +1,1133 @@
+{
+  "slug": "civil-engineering",
+  "name_en": "Civil Engineering",
+  "name_ar": "الهندسة المدنية",
+  "college": "engineering",
+  "degree": "Bachelor of Science in Civil Engineering",
+  "total_credits": 136,
+  "sections": [
+    {
+      "title": "Degree Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "Minimum of 136 semester credits required for Bachelor of Science in Civil Engineering degree. Students must have a CGPA of 2.00 and CGPA in CVL courses of 2.00"
+    },
+    {
+      "title": "Core Course Policy",
+      "credits": null,
+      "courses": [],
+      "notes": "A student must earn a grade of C- or better in all CVL core courses and must earn a grade of C- or better in a CVL core course in order to use the course as a prerequisite. The core courses are the following: CVL 203; CVL 231; CVL 270; CVL 292; CVL 297; CVL 298; CVL 299; CVL 331; CVL 340; CVL 343; CVL 392; CVL 398; CVL 498; CGT 164; COM 114; MA 261; MA 265; MA 266; PHYS 241; STAT 511. This list of courses may change as curriculum modifications occur.\nCVL 498 must be taken in a student’s final semester before graduation. The only exception to this rule is that students who plan to graduate during a summer session may take CVL 498 during the prior spring semester\nMinimum Grade of C- or better is required in all these courses in order to graduate."
+    },
+    {
+      "title": "Civil Engineering Courses",
+      "credits": 37,
+      "courses": [
+        {
+          "code": "CVL 203",
+          "title": "Mechanics of Solids",
+          "credits": 4
+        },
+        {
+          "code": "CVL 292",
+          "title": "CVL Seminar",
+          "credits": 2
+        },
+        {
+          "code": "CVL 297",
+          "title": "Probability and Statistics",
+          "credits": 3
+        },
+        {
+          "code": "CVL 231",
+          "title": "Methods of Surveying",
+          "credits": 3
+        },
+        {
+          "code": "CVL 270",
+          "title": "Hydraulic Engineering",
+          "credits": 4
+        },
+        {
+          "code": "CVL 298",
+          "title": "Numerical Methods for CVL",
+          "credits": 3
+        },
+        {
+          "code": "CVL 299",
+          "title": "Structural Analysis",
+          "credits": 3
+        },
+        {
+          "code": "CVL 331",
+          "title": "Soil Mechanics",
+          "credits": 3
+        },
+        {
+          "code": "CVL 340",
+          "title": "Construction Materials",
+          "credits": 3
+        },
+        {
+          "code": "CVL 343",
+          "title": "Construction Materials Lab",
+          "credits": 1
+        },
+        {
+          "code": "CVL 392",
+          "title": "Technical Communications",
+          "credits": 2
+        },
+        {
+          "code": "CVL 398",
+          "title": "Soil Mechanics Lab",
+          "credits": 3
+        },
+        {
+          "code": "CVL 498",
+          "title": "Civil Engineering Design",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Engineering Requirement",
+      "credits": 6,
+      "courses": [
+        {
+          "code": "ENGR 131",
+          "title": "Transforming Ideas to Innovation I",
+          "credits": 2
+        },
+        {
+          "code": "ENGR 132",
+          "title": "Transforming Ideas to Innovation II",
+          "credits": 2
+        },
+        {
+          "code": "CGT 164",
+          "title": "",
+          "credits": 2
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Quantitative Methods",
+      "credits": 21,
+      "courses": [
+        {
+          "code": "MA 165",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "MA 166",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "MA 261",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "MA 265",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "MA 266",
+          "title": "Ordinary Differential Equations",
+          "credits": 3
+        },
+        {
+          "code": "STAT 511",
+          "title": "",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Science",
+      "credits": 11,
+      "courses": [
+        {
+          "code": "CHM 115",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "PHYS 172",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "PHYS 241",
+          "title": "",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Basic Science Selective",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "BIOL 110",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 111",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 121",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 135",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 286",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 131",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 146",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "BIOL 230",
+          "title": "Biology of the Living Cell",
+          "credits": null
+        },
+        {
+          "code": "EAPS 100",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "EAPS 104",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "EAPS 111",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "EAPS 120",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "EAPS 221",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Science Selective",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "CHM 116",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 112",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "CS 159",
+          "title": "Programming Applications for Engineers",
+          "credits": 3
+        }
+      ],
+      "notes": "CHM 116 is strongly recommended for Science Selective, since it may be required as a prerequisite for some elective courses."
+    },
+    {
+      "title": "Technical Elective Requirements",
+      "credits": 30,
+      "courses": [],
+      "notes": "Technical Elective Requirements for Civil Engineering Students (see Appendix to Degree Requirements)"
+    },
+    {
+      "title": "English Language and Communication Skills",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "ENGL 100",
+          "title": "",
+          "credits": 3
+        },
+        {
+          "code": "ENGL 106",
+          "title": "",
+          "credits": 4
+        },
+        {
+          "code": "COM 114",
+          "title": "Kindly refer to Course Catalogue",
+          "credits": 3
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Education Requirement",
+      "credits": 15,
+      "courses": [],
+      "notes": "Students must satisfy the requirements of the General Education as per the following conditions:\nCourses must be drawn from the following General Education areas at AUM: Speech and Communication, English Language and Literature, History, Fine Arts, Physical Education, Self-Development and Life Style, Culinary Arts, Ethics, Social Sciences, Psychological Sciences, Natural Sciences, Child Development and Family Studies, Economics, Philosophy, Other Languages, and Science, Technology and Society (please refer to Course Catalogue, General Education section).\nIn order to ensure sufficient exposure to General Education topics, unless otherwise specified by the degree requirements of the academic major, the student cannot take more than 2 courses from the same area/sub-area as, shown in tables below:\nArea  Maximum Courses to Take\nSpeech and Communication  2\nEnglish Language and Literature  2\nHistory  2\nPhysical Education  2\nCulinary Arts  2\nEthics  2\nSocial Sciences  2\nPsychological Sciences  2\nNatural Sciences  2\nChild Development and Family Studies  2\nEconomics  2\nPhilosophy  2\nOther Languages  2\nScience, Technology and Society (STS)  2\nArea  Sub-Area  Maximum Courses to Take\nFine Arts  Arts and Design  2\nTheatre  2\nMusic  2\nFashion and Apparel Design  2\nPhotography and Media  2\nSelf-Development and Life Style  Academic and Career Skills Development  2\nCharacter and Leadership Skills Development  2\nLife Management Development  2\nDevelopment of Thinking Skills  2\nTechnology and Innovation  2\nCourses that are already required under other category than General Education requirement:\nCannot be considered as a General Education course;\nDo not count towards the 2-course limit in General Education requirement."
+    },
+    {
+      "title": "Technical Elective Requirements for Civil Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "Civil Engineering program offers students eight areas of study within the field of Civil Engineering to explore.\nAll students receive the same degree regardless of their chosen area of emphasis in their plan of study."
+    },
+    {
+      "title": "A) Emphasis Areas",
+      "credits": null,
+      "courses": [],
+      "notes": "Emphasis Areas within the Civil Engineering Department are:"
+    },
+    {
+      "title": "Construction Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "Construction Engineers deals with designing, planning, construction, and management of infrastructures such as highways, bridges, airports, railroads, buildings, dams, and utilities.\nThis area at AUM will cover the basics of construction engineering and further, it will address areas, such as Construction Safety, Emerging Construction Technologies, and Multimedia Development for Construction, and Simulations of Construction Operations along with studies in business and management, humanities, and social sciences"
+    },
+    {
+      "title": "Environmental Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "With the increasing need to pay attention to the environment and designing, managing and sustaining environmental friendly technologies; this special area in AUM will address and prepare the students to handle issues, such as energy preservation, production asset and control of waste from human and animal activities, waste water management and air pollution control, recycling, waste disposal, radiation protection, industrial hygiene and environmental sustainability."
+    },
+    {
+      "title": "Geomatics Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "This specialized area is a rapidly developing engineering discipline that focuses on spatial information about the land, the oceans, natural resources, and the environment.\nStudents will learn to integrate a wide range of data for spatial analysis and visualization and implement relational data structures involving measurement sciences, e.g.\nGPS surveying, real property boundary determination, digital mapping, geodesy, Geographic Information Systems (GIS), Global Positioning Systems (GPS), hydrography etc."
+    },
+    {
+      "title": "Geotechnical Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "This specialized area in Civil Engineering is concerned with building on, in, or with soil and rock.\nStudents will be able to design dams, embankments, cuts, foundations, retaining walls, anchors, tunnels, and all other structures directly interacting with the subsoil, both onshore and offshore.\nStudents will learn to undertake analytical and numerical analysis of geotechnical problems, backed by design, modeling and experimental techniques using principles of soil and rock mechanics."
+    },
+    {
+      "title": "Hydraulics and Hydrologic Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "This area of Civil Engineering is related to the application of fluid mechanics principles to problems dealing with the collection, storage, control, transport, regulation, measurement, and use of water.\nThe AUM program with this specialization offers a comprehensive understanding of basic principles leading to a novel approach to design and analysis of water resources with application in natural or engineered channels, groundwater flows in aquifers, pipelines, open channel hydraulics, mechanics of sediment transport, physical modeling, hydraulic machines, and drainage hydraulics."
+    },
+    {
+      "title": "Materials Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "This area in civil engineering deals with the materials used for civil engineering purposes particularly for roadworks, all other construction materials and fossil fuels.\nAUM offers students a comprehensive understanding of the chemistry, mathematics, and mechanics behind the construction materials; supported by experimental, practice and research based approaches to problems solving; with emphasis on materials like Asphalt and Bituminous Materials and Portland cement and Concrete."
+    },
+    {
+      "title": "Structural Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "AUM’s Civil Engineering program with specialization in structural engineering offers a comprehensive and balanced approach to undertake analysis and research related to solid mechanics, high-performance computing and earthquake engineering.\nStudents learn both the theoretical and experimental methods pertaining to the science, mechanics, risk and reliability for inelastic response and behavior of Reinforced Concrete (RC), Restressed Concrete (PC), structural steel, and structural composites."
+    },
+    {
+      "title": "Transportation Engineering",
+      "credits": null,
+      "courses": [],
+      "notes": "Transportation Engineering, a specialized area in the Civil Engineering program offered by AUM, prepares the students to apply technological and scientific principles for the planning, design, operation and management of facilities for different modes of transportation e.g.\nhighways, airports, railroads, and public transit.\nThe key focus is on design and operations; traffic flow and control; demand analysis and planning; and related work in economics, finance, and administration"
+    },
+    {
+      "title": "B) Technical Elective Policies for Civil Engineering Courses",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 222",
+          "title": "Life Cycle Engineering and Management of Constructed Facilities",
+          "credits": null
+        },
+        {
+          "code": "CVL 276",
+          "title": "Specs, Contracts and Codes",
+          "credits": null
+        },
+        {
+          "code": "CVL 350",
+          "title": "Environmental Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 408",
+          "title": "Geographic Information Systems",
+          "credits": null
+        },
+        {
+          "code": "CVL 383",
+          "title": "Geotechnical Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 440",
+          "title": "Urban Hydraulics",
+          "credits": null
+        },
+        {
+          "code": "CVL 371",
+          "title": "Structural Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 361",
+          "title": "Transportation Engineering",
+          "credits": null
+        }
+      ],
+      "notes": "Students can select the courses to design their own plan of study in line with following Policies.\nTotal credit requirement\nCVL students must complete thirty (30) credits of technical electives.\nThe technical elective plan of study must be consistent with career objectives.\nFor instance, one can elect to emphasize a particular area of Civil Engineering by taking several courses in that area, or one can choose a general program in Civil Engineering by taking courses in several emphasis areas.\nMinimum CVL credit requirement and associated rules\nA minimum of twenty-one (21) credits of technical electives must come from CVL-designated courses.\nThe remaining nine (9) credit hours required may come from a combination of courses that are not CVL-designated but have been approved for technical elective credit and from additional CVL-designated courses.\nKindly check the below section on “Technical Elective Policies for non-Civil Engineering Courses” for details regarding approved technical electives that are not CVL-designated courses.\nAll technical electives must be selected in support of the career objectives of the student and be approved by the advisor.\nBreadth requirement\nAt least four (4) courses must be completed from the following list, guaranteeing sufficient breadth of study in at least four of the emphasis areas:\nTransportation.\nDesign content requirement\nAt least three (3) courses must be completed from the following list, guaranteeing sufficient design content:"
+    },
+    {
+      "title": "Construction Engineering: 224, 267, 280, 522, 523, 527",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 353",
+          "title": "Physico-Chemical Principles of Environmental Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 456",
+          "title": "Wastewater Treatment",
+          "credits": null
+        },
+        {
+          "code": "CVL 457",
+          "title": "Air Pollution Control and Design",
+          "credits": null
+        }
+      ],
+      "notes": "Environment Engineering."
+    },
+    {
+      "title": "Geomatics Engineering: 205, 206, 209, 303, 306",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 483",
+          "title": "Geotechnical Engineering II",
+          "credits": null
+        },
+        {
+          "code": "CVL 583",
+          "title": "Slopes and Retaining Structures",
+          "credits": null
+        },
+        {
+          "code": "CVL 584",
+          "title": "Foundation Analysis and Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 587",
+          "title": "Soil Dynamics",
+          "credits": null
+        },
+        {
+          "code": "CVL 440",
+          "title": "Urban Hydraulics",
+          "credits": null
+        },
+        {
+          "code": "CVL 540",
+          "title": "Open Channel Hydraulics",
+          "credits": null
+        },
+        {
+          "code": "CVL 543",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CVL 546",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CVL 549",
+          "title": "Computational Watershed Hydrology",
+          "credits": null
+        },
+        {
+          "code": "CVL 530",
+          "title": "Properties and Production of Concrete",
+          "credits": null
+        },
+        {
+          "code": "CVL 470",
+          "title": "Structural Design in Metals",
+          "credits": null
+        },
+        {
+          "code": "CVL 473",
+          "title": "Theory of Reinforced Concrete",
+          "credits": null
+        },
+        {
+          "code": "CVL 479",
+          "title": "Design of Building Components and Systems",
+          "credits": null
+        },
+        {
+          "code": "CVL 361",
+          "title": "Transportation Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 461",
+          "title": "Roadway and Pavement Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 562",
+          "title": "Geometric Design of Highways",
+          "credits": null
+        },
+        {
+          "code": "CVL 563",
+          "title": "Airport Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 565",
+          "title": "Traffic Engineering: Operation and Controls",
+          "credits": null
+        },
+        {
+          "code": "CVL 567",
+          "title": "Highway Traffic and Safety Analysis",
+          "credits": null
+        }
+      ],
+      "notes": "Geotechnical Engineering.\nHydraulics Engineering.\nMaterials Engineering.\nStructural Engineering.\nTransportation Engineering.\nSequence requirement\nA sequence is defined as a minimum of two (2) technical elective courses from a given CVL emphasis area.\nEach student must complete at least two (2) such sequences of technical electives.\nNote that completing four courses from a single CVL area of emphasis does not meet this requirement; the emphasis areas must be distinct.\nCertain non-CVL designated courses may be used in satisfying this requirement; see details below in the section titled “Technical Elective Policies for non-Civil Engineering Courses”\nTechnical elective requirement\nAll technical elective courses must be taken for a grade."
+    },
+    {
+      "title": "C) Technical Elective Policies for Non-Civil Engineering Courses",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CE 201",
+          "title": "Logic Design",
+          "credits": null
+        },
+        {
+          "code": "EE 201",
+          "title": "Linear Circuit Analysis I",
+          "credits": null
+        },
+        {
+          "code": "CHM 255",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 256",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 257",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 261",
+          "title": "Organic Chemistry I",
+          "credits": null
+        },
+        {
+          "code": "CHM 262",
+          "title": "Organic Chemistry II",
+          "credits": null
+        },
+        {
+          "code": "CHM 263",
+          "title": "Organic Chemistry Lab I",
+          "credits": null
+        },
+        {
+          "code": "CHM 264",
+          "title": "Organic Chemistry Lab II",
+          "credits": null
+        },
+        {
+          "code": "CHM 265",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 266",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": "Students in the Department of Civil Engineering are encouraged to choose technical electives that are consistent with their career objectives.\nIn many cases, this can involve courses that are offered outside of the department.\nThe purpose of the policies below is to provide general criteria for appropriate technical elective courses offered by other departments.\nThe following categories of courses offered outside the Department of Civil Engineering are generally approved as technical electives, subject to certain restrictions described later:\n300, 400, or 500 level courses offered by any department or division in the College of Engineering and Technology at AUM.\nManagement (MGMT) courses at a level equal to or higher than MGMT 200.\nThe following 200 level courses.\nThe following courses are considered to be substantially equivalent to courses required for the B SCVL degree and thus are not eligible to be considered as technical electives:\nElectrical & Computer Engineering: CE 302 and EE 302 – Probabilistic Methods In Electrical And Computer Engineering\nIndustrial Engineering: IE 330 – Probability and Statistics in Engineering II.\nManagement: MGMT 305 – Business Statistics.\nMathematics: MA 303 – Differential Equations and Partial Differential Equations for Engineering and the Sciences, MA 351 – Elementary Linear Algebra\nMechanical Engineering: ME 309 – Fluid Mechanics, ME 323 – Mechanics of Materials\nNuclear Engineering: NUCL 320 – Introduction To Materials For Nuclear Applications\nPhysics: PHYS 310 – Intermediate Mechanics, PHYS 503 – Fundamental Concepts of Physics, PHYS 504 – Principles of Physics I, PHYS 505 – Principles of Physics II.\nStatistics: STAT 301 – Elementary Statistical Methods, STAT 350 – Introduction To Statistics, STAT 501 – Experimental Statistics I, STAT 502 – Experimental Statistics II, STAT 503 – Statistical Methods For Biology\nAll courses outside of Civil Engineering which have the Coop or Internship course attribute or   associated with cooperative education, internships, industrial practice, etc.\nare not eligible to be considered as technical electives."
+    },
+    {
+      "title": "D) Courses for Each Emphasis Area",
+      "credits": null,
+      "courses": [],
+      "notes": "The lists below will provide with a quick overview of courses for each Emphasis area:"
+    },
+    {
+      "title": "Construction Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 222",
+          "title": "Life Cycle Engineering and Management of Constructed Facilities",
+          "credits": null
+        },
+        {
+          "code": "CVL 224",
+          "title": "Architectural Engineering Construction I",
+          "credits": null
+        },
+        {
+          "code": "CVL 267",
+          "title": "Construction Systems and Materials",
+          "credits": null
+        },
+        {
+          "code": "CVL 276",
+          "title": "Specs, Contracts and Codes",
+          "credits": null
+        },
+        {
+          "code": "CVL 280",
+          "title": "Quantity Estimating",
+          "credits": null
+        },
+        {
+          "code": "CVL 321",
+          "title": "Project Control and Life Cycle Execution of Constructed Facilities",
+          "credits": null
+        },
+        {
+          "code": "CVL 520",
+          "title": "Construction Project Control Systems",
+          "credits": null
+        },
+        {
+          "code": "CVL 521",
+          "title": "Construction Business Management",
+          "credits": null
+        },
+        {
+          "code": "CVL 522",
+          "title": "Computer Applications in Construction",
+          "credits": null
+        },
+        {
+          "code": "CVL 523",
+          "title": "Selection and Utilization of Construction Equipment",
+          "credits": null
+        },
+        {
+          "code": "CVL 524",
+          "title": "Legal Aspects in Engineering Practice",
+          "credits": null
+        },
+        {
+          "code": "CVL 526",
+          "title": "Construction of Temporary Facilities",
+          "credits": null
+        },
+        {
+          "code": "CVL 527",
+          "title": "Analytical Methods for the Design of Construction Operation Sem. 1",
+          "credits": null
+        },
+        {
+          "code": "CVL 528",
+          "title": "Urban Infrastructure Engineering and Management",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Environmental Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 350",
+          "title": "Environmental Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 352",
+          "title": "Biological Principles of Environmental Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 353",
+          "title": "Physico-Chemical Principles of Environmental Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 355",
+          "title": "Engineering Environmental Sustainability",
+          "credits": null
+        },
+        {
+          "code": "CVL 456",
+          "title": "Wastewater Treatment",
+          "credits": null
+        },
+        {
+          "code": "CVL 457",
+          "title": "Air Pollution Control and Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 550",
+          "title": "Physico-Chemical Processes in Environmental Engineering I",
+          "credits": null
+        },
+        {
+          "code": "CVL 551",
+          "title": "Physico-Chemical Processes in Environmental Engineering II",
+          "credits": null
+        },
+        {
+          "code": "CVL 552",
+          "title": "Biochemical Operation of Environmental Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 553",
+          "title": "Environmental Law for Engineers",
+          "credits": null
+        },
+        {
+          "code": "CVL 554",
+          "title": "Aquatic Chemistry in Environmental Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 555",
+          "title": "Microbial Degradation of Pollutants",
+          "credits": null
+        },
+        {
+          "code": "CVL 557",
+          "title": "Air Quality Management",
+          "credits": null
+        },
+        {
+          "code": "CVL 558",
+          "title": "Sampling and Analysis of Source and Atmospheric Air Contaminants",
+          "credits": null
+        },
+        {
+          "code": "CVL 559",
+          "title": "Water Quality Modeling",
+          "credits": null
+        },
+        {
+          "code": "CVL 593",
+          "title": "Environmental Geotechnology",
+          "credits": null
+        },
+        {
+          "code": "CVL 597",
+          "title": "Civil Engineering Projects",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Geomatics Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 205",
+          "title": "Route Surveying and Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 206",
+          "title": "Construction Surveying",
+          "credits": null
+        },
+        {
+          "code": "CVL 209",
+          "title": "Land Surveying and Subdivision",
+          "credits": null
+        },
+        {
+          "code": "CVL 303",
+          "title": "Engineering Surveying",
+          "credits": null
+        },
+        {
+          "code": "CVL 497",
+          "title": "Cadastral Surveying",
+          "credits": null
+        },
+        {
+          "code": "CVL 502",
+          "title": "Analytical Methods in Geometronics",
+          "credits": null
+        },
+        {
+          "code": "CVL 503",
+          "title": "Photogrammetry I",
+          "credits": null
+        },
+        {
+          "code": "CVL 506",
+          "title": "Data Adjustment I",
+          "credits": null
+        },
+        {
+          "code": "CVL 508",
+          "title": "Digital Mapping for Geographic Information Systems",
+          "credits": null
+        },
+        {
+          "code": "CVL 510",
+          "title": "Map Projections and Geometric Geodesy",
+          "credits": null
+        },
+        {
+          "code": "CVL 597",
+          "title": "Civil Engineering Projects",
+          "credits": null
+        }
+      ],
+      "notes": "CVL 408/597: Geographic Information Systems in Engineering"
+    },
+    {
+      "title": "Geotechnical Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 383",
+          "title": "Geotechnical Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 483",
+          "title": "Geotechnical Engineering II",
+          "credits": null
+        },
+        {
+          "code": "CVL 580",
+          "title": "Advanced Geotechnical Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 583",
+          "title": "Slopes and Retaining Structures",
+          "credits": null
+        },
+        {
+          "code": "CVL 584",
+          "title": "Foundation Analysis and Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 587",
+          "title": "Soil Dynamics",
+          "credits": null
+        },
+        {
+          "code": "CVL 588",
+          "title": "Rock Mechanics",
+          "credits": null
+        },
+        {
+          "code": "CVL 593",
+          "title": "Environmental Geotechnology",
+          "credits": null
+        },
+        {
+          "code": "CVL 597",
+          "title": "Civil Engineering Projects",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Hydraulics & Hydrology Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 440",
+          "title": "Urban Hydraulics",
+          "credits": null
+        },
+        {
+          "code": "CVL 443",
+          "title": "Introductory Environmental Fluid Mechanics",
+          "credits": null
+        },
+        {
+          "code": "CVL 540",
+          "title": "Open Channel Hydraulics",
+          "credits": null
+        },
+        {
+          "code": "CVL 542",
+          "title": "Hydrology",
+          "credits": null
+        },
+        {
+          "code": "CVL 544",
+          "title": "Subsurface Hydrology",
+          "credits": null
+        },
+        {
+          "code": "CVL 545",
+          "title": "Sediment Transportation Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 547",
+          "title": "Transport Processes in Surface Waters",
+          "credits": null
+        },
+        {
+          "code": "CVL 549",
+          "title": "Computational Watershed Hydrology",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Materials Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 530",
+          "title": "Properties and Production of Concrete",
+          "credits": null
+        },
+        {
+          "code": "CVL 535",
+          "title": "Bituminous Materials and Mixtures",
+          "credits": null
+        },
+        {
+          "code": "CVL 538",
+          "title": "Experimental Methods in Construction Materials and Research",
+          "credits": null
+        },
+        {
+          "code": "CVL 597",
+          "title": "Civil Engineering Projects",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Structures Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 371",
+          "title": "Structural Analysis",
+          "credits": null
+        },
+        {
+          "code": "CVL 470",
+          "title": "Structural Design in Metals",
+          "credits": null
+        },
+        {
+          "code": "CVL 473",
+          "title": "Theory of Reinforced Concrete",
+          "credits": null
+        },
+        {
+          "code": "CVL 474",
+          "title": "Structural Analysis II",
+          "credits": null
+        },
+        {
+          "code": "CVL 479",
+          "title": "Design of Building Components and Systems",
+          "credits": null
+        },
+        {
+          "code": "CVL 570",
+          "title": "Advanced Structural Mechanics",
+          "credits": null
+        },
+        {
+          "code": "CVL 571",
+          "title": "Earthquake Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 572",
+          "title": "Prestressed Concrete Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 573",
+          "title": "Structural Dynamics",
+          "credits": null
+        },
+        {
+          "code": "CVL 575",
+          "title": "Experimental Methods in Structural Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 576",
+          "title": "Advanced Reinforced Concrete Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 577",
+          "title": "Analysis of Plates and Shells",
+          "credits": null
+        },
+        {
+          "code": "CVL 578",
+          "title": "Plasticity in Structural Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 579",
+          "title": "Structural Stability",
+          "credits": null
+        },
+        {
+          "code": "CVL 591",
+          "title": "Advanced Structural Steel Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 592",
+          "title": "Plastic Design of Steel Structures",
+          "credits": null
+        },
+        {
+          "code": "CVL 595",
+          "title": "Finite Elements in Elasticity",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Transportation Engineering",
+      "credits": null,
+      "courses": [
+        {
+          "code": "CVL 361",
+          "title": "Transportation Engineering",
+          "credits": null
+        },
+        {
+          "code": "CVL 461",
+          "title": "Roadway and Pavement Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 463",
+          "title": "Highway Transportation Characteristics",
+          "credits": null
+        },
+        {
+          "code": "CVL 512",
+          "title": "The Comprehensive Urban Planning Process",
+          "credits": null
+        },
+        {
+          "code": "CVL 560",
+          "title": "Public Mass Transportation",
+          "credits": null
+        },
+        {
+          "code": "CVL 561",
+          "title": "Transportation Systems Evaluation",
+          "credits": null
+        },
+        {
+          "code": "CVL 562",
+          "title": "Geometric Design of Highways",
+          "credits": null
+        },
+        {
+          "code": "CVL 563",
+          "title": "Airport Design",
+          "credits": null
+        },
+        {
+          "code": "CVL 564",
+          "title": "Airport Systems Planning and Analysis",
+          "credits": null
+        },
+        {
+          "code": "CVL 565",
+          "title": "Traffic Engineering: Operation and Controls",
+          "credits": null
+        },
+        {
+          "code": "CVL 566",
+          "title": "Transportation Planning",
+          "credits": null
+        },
+        {
+          "code": "CVL 567",
+          "title": "Highway Traffic and Safety Analysis",
+          "credits": null
+        },
+        {
+          "code": "CVL 568",
+          "title": "Highway Infrastructure Management Systems",
+          "credits": null
+        },
+        {
+          "code": "CVL 594",
+          "title": "Transportation Systems Analysis",
+          "credits": null
+        },
+        {
+          "code": "CVL 596",
+          "title": "Network Models and Algorithms",
+          "credits": null
+        }
+      ],
+      "notes": null
+    }
+  ]
+}

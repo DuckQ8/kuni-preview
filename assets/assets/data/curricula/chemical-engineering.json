@@ -1,0 +1,495 @@
+{
+  "slug": "chemical-engineering",
+  "name_en": "Chemical Engineering",
+  "name_ar": "الهندسة الكيميائية",
+  "college": "engineering",
+  "degree": "Bachelor of Science in Chemical Engineering",
+  "total_credits": 134,
+  "sections": [
+    {
+      "title": "Degree Requirements",
+      "credits": null,
+      "courses": [],
+      "notes": "The Bachelor of Science in Chemical Engineering degree requires a total of a 134 credit hours and a minimum cumulative grade point average (CGPA) of 2.00.\nA minimum major CGPA of 2.00 in all CHE courses is required for graduation."
+    },
+    {
+      "title": "Chemical Engineering Core",
+      "credits": 39,
+      "courses": [
+        {
+          "code": "CHE 200",
+          "title": "Chemical Engineering Principles",
+          "credits": null
+        },
+        {
+          "code": "CHE 205",
+          "title": "Material and Energy Balances",
+          "credits": null
+        },
+        {
+          "code": "CHE 211",
+          "title": "Chemical Engineering Thermodynamics",
+          "credits": null
+        },
+        {
+          "code": "CHE 300",
+          "title": "Transport Phenomena",
+          "credits": null
+        },
+        {
+          "code": "CHE 306",
+          "title": "Heat Transfer",
+          "credits": null
+        },
+        {
+          "code": "CHE 320",
+          "title": "Separation Processes",
+          "credits": null
+        },
+        {
+          "code": "CHE 348",
+          "title": "Chemical Engineering Lab I",
+          "credits": null
+        },
+        {
+          "code": "CHE 377",
+          "title": "Chemical Reaction Engineering",
+          "credits": null
+        },
+        {
+          "code": "CHE 378",
+          "title": "Chemical Engineering Lab II",
+          "credits": null
+        },
+        {
+          "code": "CHE 400",
+          "title": "Process Control",
+          "credits": null
+        },
+        {
+          "code": "CHE 420",
+          "title": "Process Design I",
+          "credits": null
+        },
+        {
+          "code": "CHE 435",
+          "title": "Process Economics",
+          "credits": null
+        },
+        {
+          "code": "CHE 456",
+          "title": "Process Safety",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Senior Design",
+      "credits": 4,
+      "courses": [
+        {
+          "code": "CHE 450",
+          "title": "Senior Design Project",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Chemical Engineering Science Core",
+      "credits": 11,
+      "courses": [
+        {
+          "code": "CHM 261",
+          "title": "Organic Chemistry I",
+          "credits": null
+        },
+        {
+          "code": "CHM 262",
+          "title": "Organic Chemistry II",
+          "credits": null
+        },
+        {
+          "code": "CHM 263",
+          "title": "Organic Chemistry Lab I",
+          "credits": null
+        },
+        {
+          "code": "CHM 264",
+          "title": "Organic Chemistry Lab II",
+          "credits": null
+        },
+        {
+          "code": "CHM 370",
+          "title": "Physical Chemistry",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Chemical Engineering Mathematics Core",
+      "credits": 6,
+      "courses": [
+        {
+          "code": "MA 265",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 266",
+          "title": "Ordinary Differential Equations",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Chemical Engineering Selectives",
+      "credits": 9,
+      "courses": [],
+      "notes": "Biology Selective (3 credit hours), Chemical Engineering Elective (3 credit hours), Technical Elective (3 credit hours) (please refer to Elective and Selective Courses Section)."
+    },
+    {
+      "title": "General Engineering Requirements",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "ENGR 131",
+          "title": "Transforming Ideas to Innovation I",
+          "credits": null
+        },
+        {
+          "code": "ENGR 132",
+          "title": "Transforming Ideas to Innovation II",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Mathematics Requirements",
+      "credits": 12,
+      "courses": [
+        {
+          "code": "MA 165",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 166",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "MA 261",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "Science Requirements",
+      "credits": 15,
+      "courses": [
+        {
+          "code": "CHM 115",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "CHM 116",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "PHYS 172",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "PHYS 241",
+          "title": "",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "English Language and Communication Skills",
+      "credits": 10,
+      "courses": [
+        {
+          "code": "ENGL 100",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "ENGL 106",
+          "title": "",
+          "credits": null
+        },
+        {
+          "code": "COM 114",
+          "title": "Kindly refer to Course Catalogue",
+          "credits": null
+        }
+      ],
+      "notes": null
+    },
+    {
+      "title": "General Education Requirement",
+      "credits": 18,
+      "courses": [],
+      "notes": "Students must satisfy the requirements of the General Education as per the following conditions:\nCourses must be drawn from the following General Education areas at AUM: Speech and Communication, English Language and Literature, History, Fine Arts, Physical Education, Self-Development and Life Style, Culinary Arts, Ethics, Social Sciences, Psychological Sciences, Natural Sciences, Child Development and Family Studies, Economics, Philosophy, Other Languages, and Science, Technology and Society (please refer to Course Catalogue, General Education section).\nIn order to ensure sufficient exposure to General Education topics, unless otherwise specified by the degree requirements of the academic major, the student cannot take more than 2 courses from the same area/sub-area as, shown in the below tables:\nArea  Maximum Courses to Take\nSpeech and Communication  2\nEnglish Language and Literature  2\nHistory  2\nPhysical Education  2\nCulinary Arts  2\nEthics  2\nSocial Sciences  2\nPsychological Sciences  2\nNatural Sciences  2\nChild Development and Family Studies  2\nEconomics  2\nPhilosophy  2\nOther Languages  2\nScience, Technology and Society (STS)  2\nArea  Sub-Area  Maximum Courses to Take\nFine Arts  Arts and Design  2\nTheatre  2\nMusic  2\nFashion and Apparel Design  2\nPhotography and Media  2\nSelf-Development and Life Style  Academic and Career Skills Development  2\nCharacter and Leadership Skills Development  2\nLife Management Development  2\nDevelopment of Thinking Skills  2\nTechnology and Innovation  2\nCourses that are already required under other category than General Education requirement:\ncannot be considered as a General Education course;\ndo not count towards the 2-course limit in General Education requirement."
+    },
+    {
+      "title": "Biology Selectives",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "BIOL 230",
+          "title": "Biology of the Living Cell",
+          "credits": null
+        },
+        {
+          "code": "CHM 533",
+          "title": "Introductory Biochemistry",
+          "credits": null
+        },
+        {
+          "code": "BCHM 307",
+          "title": "Biochemistry",
+          "credits": null
+        },
+        {
+          "code": "BCHM 561",
+          "title": "General Biochemistry",
+          "credits": null
+        }
+      ],
+      "notes": "To fulfill the Biology Selectives, students may choose one of the following courses:"
+    },
+    {
+      "title": "Chemical Engineering Electives",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "CHE 203",
+          "title": "Process Equipment",
+          "credits": null
+        },
+        {
+          "code": "CHE 214",
+          "title": "Computer Application in Chemical Engineering",
+          "credits": null
+        },
+        {
+          "code": "CHE 223",
+          "title": "Natural Gas Production",
+          "credits": null
+        },
+        {
+          "code": "PE 137",
+          "title": "Petroleum Geology",
+          "credits": null
+        },
+        {
+          "code": "PE 270",
+          "title": "Onshore and Offshore Petroleum Operations",
+          "credits": null
+        },
+        {
+          "code": "PE 274",
+          "title": "Petroleum Facilities and Performance",
+          "credits": null
+        },
+        {
+          "code": "CHE 315",
+          "title": "Environmental Control",
+          "credits": null
+        },
+        {
+          "code": "CHE 330",
+          "title": "Principles of Molecular Engineering",
+          "credits": null
+        },
+        {
+          "code": "CHE 390",
+          "title": "Petroleum Refining Technology",
+          "credits": null
+        },
+        {
+          "code": "CHE 411",
+          "title": "Chemical Engineering Science Research Problems",
+          "credits": null
+        },
+        {
+          "code": "CHE 412",
+          "title": "Chemical Engineering Design Research Problems",
+          "credits": null
+        },
+        {
+          "code": "CHE 442",
+          "title": "Chemistry and Engineering of High Polymers",
+          "credits": null
+        },
+        {
+          "code": "CHE 461",
+          "title": "Biomedical Engineering",
+          "credits": null
+        },
+        {
+          "code": "CHE 463",
+          "title": "Applications of Chemical Engineering Principles",
+          "credits": null
+        },
+        {
+          "code": "CHE 475",
+          "title": "Process Plant Simulation",
+          "credits": null
+        },
+        {
+          "code": "CHE 480",
+          "title": "Process Plant Safety",
+          "credits": null
+        },
+        {
+          "code": "CHE 490",
+          "title": "CHE Research Project",
+          "credits": null
+        },
+        {
+          "code": "CHE 498",
+          "title": "Undergraduate Thesis Research I",
+          "credits": null
+        }
+      ],
+      "notes": "In addition to the required Chemical Engineering courses, students must choose 3 additional credit hours of Chemical Engineering courses.\nA list of eligible courses as determined by the faculty is included below.\nChemical Engineering Electives MUST be selected from this list:\nAny Chemical Engineering 500 level course"
+    },
+    {
+      "title": "Technical Electives",
+      "credits": 3,
+      "courses": [
+        {
+          "code": "CHM 224",
+          "title": "Introductory Quantitative Analysis",
+          "credits": null
+        },
+        {
+          "code": "CHM 241",
+          "title": "Introductory Inorganic Chemistry",
+          "credits": null
+        },
+        {
+          "code": "CHM 321",
+          "title": "Analytical Chemistry I",
+          "credits": null
+        },
+        {
+          "code": "CHM 333",
+          "title": "Principles of Biochemistry",
+          "credits": null
+        },
+        {
+          "code": "CHM 342",
+          "title": "Inorganic Chemistry",
+          "credits": null
+        },
+        {
+          "code": "CHM 424",
+          "title": "Analytical Chemistry II",
+          "credits": null
+        },
+        {
+          "code": "CS 159",
+          "title": "Programming Applications for Engineers",
+          "credits": null
+        }
+      ],
+      "notes": "Technical electives MUST be selected from this list.\nBiochemistry – Any BCHM course\nBiology – Any BIOL course 200 level and above\nAny Chemistry course above CHM 424"
+    },
+    {
+      "title": "Any Computer Science Course",
+      "credits": null,
+      "courses": [
+        {
+          "code": "ACT 200",
+          "title": "Introductory Accounting for Non-Business Majors",
+          "credits": null
+        },
+        {
+          "code": "MA 301",
+          "title": "Introduction to Proof Through Real Analysis",
+          "credits": null
+        },
+        {
+          "code": "MA 375",
+          "title": "Introduction to Discrete Mathematics",
+          "credits": null
+        },
+        {
+          "code": "MA 341",
+          "title": "Foundations of Analysis",
+          "credits": null
+        },
+        {
+          "code": "MA 353",
+          "title": "Linear Algebra II with Applications",
+          "credits": null
+        },
+        {
+          "code": "MA 362",
+          "title": "Topics in Vector Calculus",
+          "credits": null
+        },
+        {
+          "code": "NANO 101",
+          "title": "Introduction to Nanotechnology",
+          "credits": null
+        },
+        {
+          "code": "PHYS 322",
+          "title": "Intermediate Optics",
+          "credits": null
+        }
+      ],
+      "notes": "Any course from the Engineering Elective List (below)\nAny Physics course 300 or above any Statistics course 511 or above"
+    },
+    {
+      "title": "2. Engineering Electives",
+      "credits": 6,
+      "courses": [
+        {
+          "code": "CHE 201",
+          "title": "Cooperative Seminar I (Chemical Engineering Internship course)",
+          "credits": null
+        },
+        {
+          "code": "CHE 301",
+          "title": "Cooperative Seminar II (Chemical Engineering Internship course)",
+          "credits": null
+        },
+        {
+          "code": "CHE 401",
+          "title": "Cooperative Seminar III (Chemical Engineering Internship course)",
+          "credits": null
+        },
+        {
+          "code": "IE 343",
+          "title": "Engineering Economics",
+          "credits": null
+        }
+      ],
+      "notes": "While students may choose to take courses from Chemical Engineering to fulfill this requirement, the approved courses come from several engineering disciplines to provide students the opportunity to broaden their understanding of engineering concepts.\nA list of eligible courses as determined by the department is included below.\nEngineering Electives MUST be selected from this list.\nAny Chemical Engineering course from the Chemical Engineering Elective List (above)\nME 440 Automotive Prime Movers: Green Engines and Clean Fuel\nAny course from other engineering departments"
+    },
+    {
+      "title": "3. General Education Electives",
+      "credits": 18,
+      "courses": [],
+      "notes": "Kindly refer to the Liberal Arts Department section in the Course Catalogue."
+    }
+  ]
+}

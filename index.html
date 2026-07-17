@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <base href="/kuni-preview/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Kuni — the AUM student companion. GPA tools, study plans, professor ratings, study groups, and an AI assistant grounded in official AUM sources.">
+  <meta name="theme-color" content="#800000">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Kuni">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Kuni — AUM Student Companion</title>
+  <link rel="manifest" href="manifest.json">
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      /* Flutter manages its own scrolling; suppress the page-level scrollbar so
+         its gutter never reveals the maroon body behind the view. */
+      overflow: hidden;
+      /* Maroon from the first paint so the loader fades seamlessly into the
+         maroon Flutter splash — no cream flash between them. */
+      background: #800000;
+    }
+    #kuni-loader {
+      position: fixed;
+      inset: 0;
+      background: #800000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 32px;
+      transition: opacity .45s ease;
+    }
+    /* Ivory K mark, centred, revealed with a gentle scale + fade. */
+    .kuni-mark {
+      position: relative;
+      width: 132px;
+      height: 132px;
+      display: grid;
+      place-items: center;
+    }
+    .kuni-mark__glow {
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      background: radial-gradient(circle at center,
+        rgba(255, 255, 255, .22) 0%,
+        rgba(255, 255, 255, .10) 45%,
+        rgba(255, 255, 255, 0) 70%);
+      animation: kuni-pulse 2.6s ease-in-out infinite;
+    }
+    .kuni-mark__img {
+      position: relative;
+      width: 104px;
+      height: 104px;
+      opacity: 0;
+      transform: scale(.8);
+      animation: kuni-reveal .9s cubic-bezier(.2, .8, .2, 1) forwards;
+    }
+    /* Slim indeterminate progress line. */
+    .kuni-bar {
+      position: relative;
+      width: 148px;
+      height: 3px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, .18);
+      overflow: hidden;
+    }
+    .kuni-bar::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 42%;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, .92);
+      animation: kuni-slide 1.3s ease-in-out infinite;
+    }
+    @keyframes kuni-reveal {
+      to { opacity: 1; transform: scale(1); }
+    }
+    @keyframes kuni-pulse {
+      0%, 100% { opacity: .4; transform: scale(.92); }
+      50%      { opacity: .8; transform: scale(1.08); }
+    }
+    @keyframes kuni-slide {
+      0%   { left: -42%; }
+      100% { left: 100%; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .kuni-mark__img { opacity: 1; transform: none; animation: none; }
+      .kuni-mark__glow { animation: none; opacity: .55; }
+      .kuni-bar::before { animation: none; left: 0; width: 100%; opacity: .5; }
+    }
+  </style>
+</head>
+<body>
+  <div id="kuni-loader">
+    <div class="kuni-mark">
+      <div class="kuni-mark__glow"></div>
+      <img class="kuni-mark__img" src="icons/logo-mark-light.png" alt="Kuni">
+    </div>
+    <div class="kuni-bar"></div>
+  </div>
+  <script>
+    window.addEventListener('flutter-first-frame', function () {
+      var loader = document.getElementById('kuni-loader');
+      if (loader) {
+        loader.style.opacity = '0';
+        setTimeout(function () { loader.remove(); }, 350);
+      }
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
