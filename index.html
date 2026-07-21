@@ -17,11 +17,22 @@
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
+  <!-- Boot-splash artwork, fetched before first paint so the icon never pops in late. -->
+  <link rel="preload" as="image" href="icons/boot-icon.png">
+  <link rel="preload" as="font" type="font/ttf" href="assets/assets/fonts/Sora-Variable.ttf" crossorigin>
 
   <title>Kuni — AUM Student Companion</title>
   <link rel="manifest" href="manifest.json">
 
   <style>
+    /* The wordmark uses the app's own display face so the boot loader is
+       pixel-continuous with the Flutter splash that replaces it. */
+    @font-face {
+      font-family: 'Display';
+      src: url('assets/assets/fonts/Sora-Variable.ttf') format('truetype');
+      font-weight: 100 900;
+      font-display: swap;
+    }
     html, body {
       margin: 0;
       padding: 0;
@@ -36,39 +47,58 @@
     #kuni-loader {
       position: fixed;
       inset: 0;
-      background: #800000;
+      /* Same radial lift the in-app aurora gives the splash, so the fade
+         between the two is invisible. */
+      background:
+        radial-gradient(120% 90% at 50% 0%, rgba(255, 255, 255, .07) 0%, rgba(255, 255, 255, 0) 55%),
+        #800000;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      gap: 32px;
+      gap: 28px;
       transition: opacity .45s ease;
     }
-    /* Ivory K mark, centred, revealed with a gentle scale + fade. */
+    /* The app-icon tile, revealed with the splash's own scale + fade. */
     .kuni-mark {
       position: relative;
-      width: 132px;
-      height: 132px;
+      width: 152px;
+      height: 152px;
       display: grid;
       place-items: center;
     }
     .kuni-mark__glow {
       position: absolute;
-      inset: 0;
+      inset: -18px;
       border-radius: 50%;
       background: radial-gradient(circle at center,
-        rgba(255, 255, 255, .22) 0%,
-        rgba(255, 255, 255, .10) 45%,
+        rgba(255, 255, 255, .20) 0%,
+        rgba(255, 255, 255, .09) 45%,
         rgba(255, 255, 255, 0) 70%);
       animation: kuni-pulse 2.6s ease-in-out infinite;
     }
     .kuni-mark__img {
       position: relative;
-      width: 104px;
-      height: 104px;
+      width: 120px;
+      height: 120px;
+      /* The tile's rounded corners are baked into the artwork; the shadow
+         mirrors the splash's soft white halo. */
+      border-radius: 27px;
+      box-shadow: 0 0 56px 6px rgba(255, 255, 255, .16);
       opacity: 0;
       transform: scale(.8);
       animation: kuni-reveal .9s cubic-bezier(.2, .8, .2, 1) forwards;
+    }
+    .kuni-wordmark {
+      font-family: 'Display', 'Segoe UI', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      letter-spacing: -.5px;
+      color: #fff;
+      line-height: 1;
+      margin-top: -2px;
+      opacity: 0;
+      animation: kuni-reveal .9s cubic-bezier(.2, .8, .2, 1) .25s forwards;
     }
     /* Slim indeterminate progress line. */
     .kuni-bar {
@@ -102,6 +132,7 @@
     }
     @media (prefers-reduced-motion: reduce) {
       .kuni-mark__img { opacity: 1; transform: none; animation: none; }
+      .kuni-wordmark { opacity: 1; animation: none; }
       .kuni-mark__glow { animation: none; opacity: .55; }
       .kuni-bar::before { animation: none; left: 0; width: 100%; opacity: .5; }
     }
@@ -111,8 +142,9 @@
   <div id="kuni-loader">
     <div class="kuni-mark">
       <div class="kuni-mark__glow"></div>
-      <img class="kuni-mark__img" src="icons/logo-mark-light.png" alt="Kuni">
+      <img class="kuni-mark__img" src="icons/boot-icon.png" alt="Kuni">
     </div>
+    <div class="kuni-wordmark">Kuni</div>
     <div class="kuni-bar"></div>
   </div>
   <script>
